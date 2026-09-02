@@ -16,6 +16,7 @@ namespace ElliotArabic
 {
     static class Program
     {
+        public const string Version = "1.0.0";
         const string AppId = "3483510";
         const string AesKey = "0x12992712E775A48B2CF002BE46619B1648C36F7212A91AB960825E0C023C62B5";
         const long PathHashSeed = 1743788200; // 0x67F018A8
@@ -244,19 +245,19 @@ namespace ElliotArabic
         }
     }
 
-    // ===================== modern UI =====================
+    // ===================== modern UI (same visual language as the other Kindiboy installers) =====================
 
     static class Ui
     {
-        public static readonly Color Bg = Color.FromArgb(30, 26, 23);
-        public static readonly Color Card = Color.FromArgb(44, 38, 33);
-        public static readonly Color Gold = Color.FromArgb(206, 167, 92);
-        public static readonly Color GoldHover = Color.FromArgb(224, 187, 112);
-        public static readonly Color Red = Color.FromArgb(168, 70, 58);
-        public static readonly Color RedHover = Color.FromArgb(192, 86, 72);
-        public static readonly Color Ink = Color.FromArgb(34, 28, 23);
-        public static readonly Color Text = Color.FromArgb(236, 228, 214);
-        public static readonly Color Muted = Color.FromArgb(150, 140, 128);
+        public static readonly Color Bg = Color.FromArgb(16, 12, 10);
+        public static readonly Color Card = Color.FromArgb(36, 28, 24);
+        public static readonly Color Gold = Color.FromArgb(222, 184, 110);   // parchment gold (title lettering)
+        public static readonly Color GoldHover = Color.FromArgb(238, 204, 136);
+        public static readonly Color Red = Color.FromArgb(186, 40, 44);      // Elliot's crimson hat
+        public static readonly Color RedHover = Color.FromArgb(210, 62, 66);
+        public static readonly Color Ink = Color.FromArgb(28, 20, 14);
+        public static readonly Color Text = Color.FromArgb(238, 230, 216);
+        public static readonly Color Muted = Color.FromArgb(150, 138, 122);
 
         static PrivateFontCollection _pfc;
         public static FontFamily Family;
@@ -283,6 +284,17 @@ namespace ElliotArabic
 
         public static Font F(float size, FontStyle style = FontStyle.Regular)
             => new Font(Family, size, style, GraphicsUnit.Point);
+
+        public static Image LoadBackground()
+        {
+            try
+            {
+                using (Stream st = Assembly.GetExecutingAssembly().GetManifestResourceStream("ui_bg.jpg"))
+                using (var img = Image.FromStream(st))
+                    return new Bitmap(img);
+            }
+            catch { return null; }
+        }
 
         public static Image LoadLogo()
         {
@@ -314,6 +326,7 @@ namespace ElliotArabic
         public Color Hover = Ui.GoldHover;
         public Color Fg = Ui.Ink;
         public int Radius = 14;
+        public Color Outline = Color.Empty;
         bool _hover;
 
         public RoundButton()
@@ -336,13 +349,16 @@ namespace ElliotArabic
             g.SmoothingMode = SmoothingMode.AntiAlias;
             g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.ClearTypeGridFit;
             var rect = new Rectangle(0, 0, Width - 1, Height - 1);
-            Color fill = !Enabled ? Color.FromArgb(70, 64, 58) : (_hover ? Hover : Base);
+            Color fill = !Enabled ? Color.FromArgb(64, 54, 46) : (_hover ? Hover : Base);
             using (var path = Ui.Round(rect, Radius))
             using (var b = new SolidBrush(fill))
+            {
                 g.FillPath(b, path);
+                if (Outline != Color.Empty) using (var pen = new Pen(Outline, 1f)) g.DrawPath(pen, path);
+            }
             var sf = new StringFormat(StringFormatFlags.DirectionRightToLeft)
             { Alignment = StringAlignment.Center, LineAlignment = StringAlignment.Center };
-            using (var tb = new SolidBrush(Enabled ? Fg : Color.FromArgb(140, 130, 120)))
+            using (var tb = new SolidBrush(Enabled ? Fg : Color.FromArgb(140, 128, 114)))
                 g.DrawString(Text, Font, tb, rect, sf);
         }
     }
@@ -359,153 +375,121 @@ namespace ElliotArabic
         {
             Ui.LoadFont();
 
+            AutoScaleMode = AutoScaleMode.Dpi;
+            AutoScaleDimensions = new SizeF(96F, 96F);
             FormBorderStyle = FormBorderStyle.None;
             StartPosition = FormStartPosition.CenterScreen;
-            ClientSize = new Size(520, 716);
+            ClientSize = new Size(560, 780);
             BackColor = Ui.Bg;
+            BackgroundImage = Ui.LoadBackground();
+            BackgroundImageLayout = ImageLayout.Stretch;
             RightToLeft = RightToLeft.Yes;
             RightToLeftLayout = true;
             Font = Ui.F(11f);
-            Region = new Region(Ui.Round(new Rectangle(0, 0, Width, Height), 18));
-
-            // drag to move
+            Text = "Elliot Arabic Installer v" + Program.Version;
             MouseDown += DragStart;
 
-            // close button
             var close = new Label
             {
-                Text = "✕",
-                Font = new Font("Segoe UI", 12f, FontStyle.Bold),
-                ForeColor = Ui.Muted,
-                AutoSize = false,
-                Size = new Size(34, 30),
-                Location = new Point(12, 12),
-                TextAlign = ContentAlignment.MiddleCenter,
-                Cursor = Cursors.Hand
+                Text = "✕", Font = new Font("Segoe UI", 12f, FontStyle.Bold), ForeColor = Ui.Muted,
+                AutoSize = false, Size = new Size(34, 30), Location = new Point(14, 14),
+                TextAlign = ContentAlignment.MiddleCenter, Cursor = Cursors.Hand, BackColor = Color.Transparent
             };
             close.Click += (s, e) => Close();
             close.MouseEnter += (s, e) => { close.ForeColor = Ui.Red; };
             close.MouseLeave += (s, e) => { close.ForeColor = Ui.Muted; };
             Controls.Add(close);
 
-            // logo
+            var ver = new Label
+            {
+                Text = "v" + Program.Version, Font = new Font("Segoe UI", 9f), ForeColor = Ui.Muted,
+                AutoSize = false, Size = new Size(80, 30), Location = new Point(ClientSize.Width - 92, 14),
+                TextAlign = ContentAlignment.MiddleRight, RightToLeft = RightToLeft.No, BackColor = Color.Transparent
+            };
+            ver.MouseDown += DragStart;
+            Controls.Add(ver);
+
             var logo = new PictureBox
             {
-                Image = Ui.LoadLogo(),
-                SizeMode = PictureBoxSizeMode.Zoom,
-                BackColor = Color.Transparent,
-                Size = new Size(420, 216),
-                Location = new Point((ClientSize.Width - 420) / 2, 46)
+                Image = Ui.LoadLogo(), SizeMode = PictureBoxSizeMode.Zoom, BackColor = Color.Transparent,
+                Size = new Size(440, 180), Location = new Point((ClientSize.Width - 440) / 2, 50)
             };
             logo.MouseDown += DragStart;
             Controls.Add(logo);
 
-            // subtitle
             var subtitle = new Label
             {
-                Text = "التعريب العربي الكامل",
-                Font = Ui.F(15f, FontStyle.Bold),
-                ForeColor = Ui.Gold,
-                AutoSize = false,
-                UseCompatibleTextRendering = true,
-                TextAlign = ContentAlignment.MiddleCenter,
-                Size = new Size(ClientSize.Width, 34),
-                Location = new Point(0, 270)
+                Text = "التعريب الكامل", Font = Ui.F(18f, FontStyle.Bold), ForeColor = Ui.Gold,
+                AutoSize = false, UseCompatibleTextRendering = true, TextAlign = ContentAlignment.MiddleCenter,
+                Size = new Size(ClientSize.Width, 58), Location = new Point(0, 236), BackColor = Color.Transparent
             };
-            subtitle.MouseDown += DragStart;
-            Controls.Add(subtitle);
+            subtitle.MouseDown += DragStart; Controls.Add(subtitle);
 
-            // status card
+            var tagline = new Label
+            {
+                Text = "ترجمة كاملة لكل نصوص اللعبة عن الأصل الياباني",
+                Font = Ui.F(9f), ForeColor = Ui.Muted,
+                AutoSize = false, UseCompatibleTextRendering = true, TextAlign = ContentAlignment.MiddleCenter,
+                Size = new Size(ClientSize.Width, 30), Location = new Point(0, 294), BackColor = Color.Transparent
+            };
+            tagline.MouseDown += DragStart; Controls.Add(tagline);
+
             var card = new RoundPanel
             {
-                Size = new Size(440, 78),
-                Location = new Point((ClientSize.Width - 440) / 2, 322),
-                Fill = Ui.Card
+                Size = new Size(480, 86), Location = new Point((ClientSize.Width - 480) / 2, 334),
+                Fill = Color.FromArgb(205, Ui.Card), Border = Color.FromArgb(60, Ui.Gold)
             };
             lblPath = new Label
             {
-                AutoSize = false,
-                Dock = DockStyle.Fill,
-                Padding = new Padding(14, 8, 14, 8),
-                ForeColor = Ui.Text,
-                Font = Ui.F(9.5f),
-                UseCompatibleTextRendering = true,
-                TextAlign = ContentAlignment.MiddleCenter,
-                BackColor = Color.Transparent
+                AutoSize = false, Dock = DockStyle.Fill, Padding = new Padding(6, 4, 6, 4), ForeColor = Ui.Text,
+                Font = Ui.F(8.5f), UseCompatibleTextRendering = true, TextAlign = ContentAlignment.MiddleCenter, BackColor = Color.Transparent
             };
-            card.Controls.Add(lblPath);
-            Controls.Add(card);
+            card.Controls.Add(lblPath); Controls.Add(card);
 
-            // install button
             btnInstall = new RoundButton
             {
-                Text = "تثبيت اللغة العربية",
-                Font = Ui.F(14f, FontStyle.Bold),
-                Size = new Size(440, 62),
-                Location = new Point((ClientSize.Width - 440) / 2, 420),
-                Base = Ui.Gold,
-                Hover = Ui.GoldHover,
-                Fg = Ui.Ink
+                Text = "تثبيت اللغة العربية", Font = Ui.F(15f, FontStyle.Bold), Size = new Size(480, 64),
+                Location = new Point((ClientSize.Width - 480) / 2, 440), Base = Ui.Gold, Hover = Ui.GoldHover, Fg = Ui.Ink, Radius = 14
             };
-            btnInstall.Click += OnInstall;
-            Controls.Add(btnInstall);
+            btnInstall.Click += OnInstall; Controls.Add(btnInstall);
 
-            // uninstall button
             btnUninstall = new RoundButton
             {
-                Text = "إزالة اللغة العربية",
-                Font = Ui.F(12.5f, FontStyle.Bold),
-                Size = new Size(440, 50),
-                Location = new Point((ClientSize.Width - 440) / 2, 494),
-                Base = Ui.Red,
-                Hover = Ui.RedHover,
-                Fg = Ui.Text
+                Text = "إزالة اللغة العربية", Font = Ui.F(12f, FontStyle.Bold), Size = new Size(480, 52),
+                Location = new Point((ClientSize.Width - 480) / 2, 514), Base = Color.FromArgb(40, 30, 26), Hover = Color.FromArgb(58, 44, 38),
+                Fg = Ui.Gold, Outline = Color.FromArgb(150, Ui.Gold), Radius = 14
             };
-            btnUninstall.Click += OnUninstall;
-            Controls.Add(btnUninstall);
+            btnUninstall.Click += OnUninstall; Controls.Add(btnUninstall);
 
-            // status line
             lblStatus = new Label
             {
-                AutoSize = false,
-                Font = Ui.F(10f),
-                UseCompatibleTextRendering = true,
-                TextAlign = ContentAlignment.MiddleCenter,
-                ForeColor = Ui.Muted,
-                Size = new Size(ClientSize.Width, 30),
-                Location = new Point(0, 602)
+                AutoSize = false, Font = Ui.F(10f), UseCompatibleTextRendering = true, TextAlign = ContentAlignment.MiddleCenter,
+                ForeColor = Ui.Muted, Size = new Size(ClientSize.Width, 32), Location = new Point(0, 578), BackColor = Color.Transparent
             };
-            lblStatus.MouseDown += DragStart;
-            Controls.Add(lblStatus);
+            lblStatus.MouseDown += DragStart; Controls.Add(lblStatus);
 
-            // manual browse
             btnBrowse = new LinkLabel
             {
-                Text = "تحديد مجلد اللعبة يدويًا",
-                AutoSize = false,
-                Font = Ui.F(9f),
-                LinkColor = Ui.Muted,
-                ActiveLinkColor = Ui.Gold,
-                LinkBehavior = LinkBehavior.HoverUnderline,
-                TextAlign = ContentAlignment.MiddleCenter,
-                Size = new Size(ClientSize.Width, 24),
-                Location = new Point(0, 642),
-                BackColor = Color.Transparent
+                Text = "تحديد مجلد اللعبة يدويًا", AutoSize = false, Font = Ui.F(9f), LinkColor = Ui.Muted,
+                ActiveLinkColor = Ui.Gold, LinkBehavior = LinkBehavior.HoverUnderline, TextAlign = ContentAlignment.MiddleCenter,
+                Size = new Size(ClientSize.Width, 28), Location = new Point(0, 610), BackColor = Color.Transparent
             };
-            btnBrowse.Click += OnBrowse;
-            Controls.Add(btnBrowse);
+            btnBrowse.Click += OnBrowse; Controls.Add(btnBrowse);
 
-            // footer — credit
+            var kofi = new RoundButton
+            {
+                Text = "أعجبك التعريب؟ ادعمني على Ko-fi", Font = Ui.F(10.5f, FontStyle.Bold), Size = new Size(440, 46),
+                Location = new Point((ClientSize.Width - 440) / 2, 676), Base = Color.FromArgb(34, 26, 22), Hover = Color.FromArgb(50, 40, 34),
+                Fg = Ui.Text, Outline = Color.FromArgb(120, Ui.Gold), Radius = 14
+            };
+            kofi.Click += (s, e) => { try { Process.Start(new ProcessStartInfo("https://ko-fi.com/kindiboy") { UseShellExecute = true }); } catch { } };
+            Controls.Add(kofi);
+
             var footer = new Label
             {
-                Text = "تعريب وإعداد:  Kindiboy",
-                Font = Ui.F(9.5f, FontStyle.Bold),
-                ForeColor = Color.FromArgb(170, 140, 92),
-                AutoSize = false,
-                UseCompatibleTextRendering = true,
-                TextAlign = ContentAlignment.MiddleCenter,
-                Size = new Size(ClientSize.Width, 22),
-                Location = new Point(0, 682)
+                Text = "تعريب وإعداد:  Kindiboy", Font = Ui.F(9.5f, FontStyle.Bold), ForeColor = Ui.Gold,
+                AutoSize = false, UseCompatibleTextRendering = true, TextAlign = ContentAlignment.MiddleCenter,
+                Size = new Size(ClientSize.Width, 28), Location = new Point(0, 736), BackColor = Color.Transparent
             };
             footer.MouseDown += DragStart;
             Controls.Add(footer);
@@ -514,19 +498,23 @@ namespace ElliotArabic
             RefreshState();
         }
 
+        protected override void OnSizeChanged(EventArgs e)
+        {
+            base.OnSizeChanged(e);
+            Region = new Region(Ui.Round(new Rectangle(0, 0, Width, Height), (int)(20 * DeviceDpi / 96f)));
+        }
+
         protected override void OnPaint(PaintEventArgs e)
         {
             base.OnPaint(e);
-            // subtle gold border
-            using (var pen = new Pen(Color.FromArgb(60, Ui.Gold), 1))
-            using (var path = Ui.Round(new Rectangle(0, 0, Width - 1, Height - 1), 18))
+            using (var pen = new Pen(Color.FromArgb(70, Ui.Gold), 1))
+            using (var path = Ui.Round(new Rectangle(0, 0, Width - 1, Height - 1), (int)(20 * DeviceDpi / 96f)))
             {
                 e.Graphics.SmoothingMode = SmoothingMode.AntiAlias;
                 e.Graphics.DrawPath(pen, path);
             }
         }
 
-        // ---- drag-to-move (borderless) ----
         [DllImport("user32.dll")] static extern bool ReleaseCapture();
         [DllImport("user32.dll")] static extern IntPtr SendMessage(IntPtr h, int msg, int wp, int lp);
         void DragStart(object sender, MouseEventArgs e)
@@ -564,8 +552,8 @@ namespace ElliotArabic
 
         static string Trim(string p)
         {
-            if (p != null && p.Length > 52) return "…" + p.Substring(p.Length - 50);
-            return p;
+            if (p != null && p.Length > 30) p = "…" + p.Substring(p.Length - 28);
+            return p == null ? null : "\u202A" + p + "\u202C";
         }
 
         void SetStatus(string text, Color color)
@@ -576,8 +564,8 @@ namespace ElliotArabic
 
         void Progress(string text)
         {
-            if (InvokeRequired) BeginInvoke(new Action(() => SetStatus(text, Color.FromArgb(120, 170, 220))));
-            else SetStatus(text, Color.FromArgb(120, 170, 220));
+            if (InvokeRequired) BeginInvoke(new Action(() => SetStatus(text, Ui.Gold)));
+            else SetStatus(text, Ui.Gold);
         }
 
         void SetBusy(bool b)
@@ -681,6 +669,7 @@ namespace ElliotArabic
     public class RoundPanel : Panel
     {
         public Color Fill = Ui.Card;
+        public Color Border = Color.Empty;
         public int Radius = 12;
         public RoundPanel()
         {
@@ -695,7 +684,10 @@ namespace ElliotArabic
             var r = new Rectangle(0, 0, Width - 1, Height - 1);
             using (var path = Ui.Round(r, Radius))
             using (var b = new SolidBrush(Fill))
+            {
                 g.FillPath(b, path);
+                if (Border != Color.Empty) using (var pen = new Pen(Border, 1f)) g.DrawPath(pen, path);
+            }
         }
     }
 }

@@ -1,5 +1,7 @@
 <p align="center"><a href="https://ko-fi.com/kindiboy"><img src="https://img.shields.io/badge/Ko--fi-Support%20me%20on%20Ko--fi-ff5f5f?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi"></a></p>
 
+<p align="center"><img src="release_media/01_header_1400x400.jpg" alt="التعريب الكامل" width="100%"></p>
+
 <h1 align="center">The Adventures of Elliot — التعريب الكامل</h1>
 <p align="center">Complete Arabic localization for <b>The Adventures of Elliot: The Millennium Tales</b> (Steam) · تعريب كامل للعبة</p>
 
@@ -54,6 +56,10 @@
 The installer needs about 8 GB of temporary space while installing (it rebuilds the game's base pak locally), and admin rights if the game is under Program Files.
 
 **Uninstall**: run the installer again and click the uninstall button — it restores the original pak from its backup and removes the added files.
+
+## Screenshots
+
+![Installer](release_media/05_installer_1920x1080.jpg)
 
 ## Notes
 

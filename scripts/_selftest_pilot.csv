@@ -1,0 +1,8 @@
+ID,source text,Arabic translation,category,context,glossary terms used,notes
+T1,"Hello {PlayerName}, you dealt %d damage!","مرحبًا {PlayerName}، لقد سددت %d من الضرر!",dialogue,combat,,clean row
+T2,"Save","حفظ البيانات والإعدادات الكاملة هنا",menu,main menu,,too long for UI
+T3,"Press [PAD_A] to continue","اضغط للمتابعة",tutorial,,,dropped token
+T4,"Continue","Continue",menu,,,untranslated
+T5,"Are you sure?","هل أنت متأكد?",system_message,,,ascii question mark
+T6,"Faie joins the party","فيّ ينضم إلى الفريق",dialogue,,Faie,ok
+T7,"Faie joins the party","فاي ينضم إلى الفريق",dialogue,,Faie,inconsistent dup of T6

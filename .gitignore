@@ -1,0 +1,23 @@
+# game files and anything derived directly from them
+_extract/
+_build/
+_fix/
+_work/
+scripts/_tools/
+scripts/__pycache__/
+installer/payload2/
+
+# backups / stale intermediates
+*.bak
+*.precontam.bak
+
+# installer build outputs (exe ships via GitHub Releases / Nexus)
+installer/bin/
+installer/obj/
+installer/publish/
+installer/payload.zip
+installer/payload.zip.pre_genfix.bak
+
+# local
+__pycache__/
+*.log

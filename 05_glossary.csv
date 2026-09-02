@@ -1,0 +1,157 @@
+source_term,approved_arabic,category,context,should_translate,notes
+エリオット,إليوت,character_name,protagonist (×872),no,OFFICIAL EN = Elliot; transliterate consistently
+フェイ,فاي,character_name,fairy partner (×219),no,OFFICIAL EN = Faie; transliterate
+マオ,ماو,character_name,major character (×421),no,phonetic Mao; verify official EN
+ミュー,ميو,character_name,character (×281),no,phonetic Myu/Mew; verify
+ヒューリア,هيوريا,character_name,major character (×276),no,phonetic Hyuria; verify
+ヒューリック,هيوريك,character_name,character (×206),no,phonetic Hyurik; verify
+カーター,كارتر,character_name,character (×157),no,phonetic Carter; verify
+リュドミラ,ليودميلا,character_name,character (×153),no,phonetic Lyudmila; verify
+カイフリード,كايفرايد,character_name,character (×119),no,phonetic Kaifried; verify
+ディオナ,ديونا,character_name,character (×83),no,phonetic Diona; verify
+ヒルク,هيلك,character_name,character (×80),no,phonetic Hilk; verify
+イカロス,إيكاروس,character_name,character (×74),no,phonetic Icarus; verify
+ヒルデブラント,هيلدبراند,character_name,character (×66); branch flag 'survives',no,phonetic Hildebrandt; verify
+ユイジーヌ,يوجين,character_name,character (×62),no,phonetic; possibly Eugène; verify
+ファウスタ,فاوستا,character_name,character (×52),no,phonetic Fausta; verify
+レイカ,رايكا,character_name,character (×45),no,phonetic Reika; verify
+マーニー,مارني,character_name,character (×41),no,phonetic Marnie; verify
+オリバー,أوليفر,character_name,character (×30),no,phonetic Oliver; verify
+ヒカルド,هيكاردو,character_name,character (×29),no,phonetic Hicardo/Ricardo; verify
+イチル,إيتشيرو,character_name,character (×27),no,phonetic Ichiru; verify
+ネコ,قط,creature,'cat'; recurring cat motif (×212),maybe,common noun cat; transliterate only if it is a proper name/character
+始まり,البداية,age_name,Age 1 'Beginning',yes,one of the four ages; translate as an era name
+魔法,السحر,age_name/term,Age 2 'Magic'; also the noun magic (×638),yes,disambiguate age-name vs common noun by context
+再建,إعادة الإعمار,age_name,Age 3 'Reconstruction',yes,era name
+加護,البركة,age_name,Age 4 'Blessing/Divine Protection',yes,era name; also 加護の魔法 'blessing magic'
+時の扉,باب الزمن,location/term,Door of Time (×61); time-travel gate,yes,iconic descriptive name; keep consistent
+鍛錬の間,قاعة الصقل,location,Hall of Forging/Training (×43),yes,'〜の間' = hall/chamber
+光の間,قاعة الضوء,location,Hall of Light (×26),yes,
+祈りの間,قاعة الصلاة,location,Hall of Prayer (×22); tied to blessing magic,yes,
+試練の聖堂,معبد المحن,location,Sanctuary of Trials (×18),yes,
+修練の間,قاعة التدريب,location,Hall of Discipline/Training (×13),yes,
+叡智の間,قاعة الحكمة,location,Hall of Wisdom (×5),yes,
+謁見の間,قاعة الاستقبال,location,Audience Hall (×2),yes,
+南の洞窟,كهف الجنوب,location,South Cave,yes,directional dungeon; same pattern east/west/north
+秘密の洞穴,الكهف السري,location,Secret Cavern [1-3],yes,
+エルダーツリー,شجرة إيلدر,location,Elder Tree,maybe,descriptive-proper; decide translate vs transliterate
+グランドツリー,الشجرة العظيمة,location,Grand Tree,maybe,
+ドラゴンピラー,عمود التنين,location,Dragon Pillar,maybe,
+魔石,حجر السحر,item_term,magicite / magic-stone (×122); equipped to weapons,maybe,KEY TERM — decide transliterate vs حجر السحر/شظايا السحر; keep one choice
+魔獣,الوحش السحري,enemy_term,magic-beast / monster (×46); e.g. 憎悪の魔獣,yes,
+ライトスタッフ,لايت ستاف,lore_term/artifact,LightStaff (×25); also internal codename,maybe,decide if in-world artifact (transliterate) vs UI; investigate
+剣,سيف,weapon,Sword,yes,one of 7 weapon types
+槍,رمح,weapon,Spear,yes,
+爆弾,قنبلة,weapon,Bomb,yes,
+ブーメラン,بوميرانج,weapon,Boomerang,yes,
+鎖,سلسلة,weapon,Chain,yes,
+ハンマー,مطرقة,weapon,Hammer,yes,
+弓,قوس,weapon,Bow,yes,
+盾,درع,equipment,Shield (defense),yes,
+攻撃力,الهجوم,stat,Attack power,yes,
+防御力,الدفاع,stat,Defense power,yes,
+素早,السرعة,stat,Agility/Speed,yes,
+体力,نقاط الصحة,stat,HP / vitality,yes,
+満腹度,الشبع,stat,Satiety / fullness gauge,yes,
+クリティカル,حرجة,combat,Critical (hit),yes,gaming-standard term
+チャージ,شحن,combat,Charge,yes,
+レベル,المستوى,stat,Level,yes,
+経験値,الخبرة,stat,EXP / experience,yes,
+スコア,النتيجة,ui,Score,yes,
+お金,المال,currency,Money/gold,yes,confirm in-game currency name
+耐久,المتانة,stat,Durability,yes,
+垂直同期,المزامنة العمودية,ui_setting,V-Sync,yes,settings menu
+コントローラー,أداة التحكم,ui_setting,Controller,yes,
+日本語,اليابانية,ui_setting,Japanese (language option),yes,language menu label
+オン,تشغيل,ui,On,yes,
+オフ,إيقاف,ui,Off,yes,
+タイトルへ戻る,العودة إلى القائمة الرئيسية,ui,Return to Title,yes,menu command
+閉じる,إغلاق,ui,Close,yes,
+ディマイズ,ديمايز,enemy_term,destruction dragon,no,Dimaize
+クレイドル,كرايدل,character_name,firebird companion,no,Cradle
+ラーウェイ,راوي,character_name,Elliot's mother,no,Rāwei
+フィレビルディア,فيليبيلديا,location,world name,no,Philebildia
+ヒューザー,هيوزر,location,kingdom name,no,Hewser
+ロウエル,رولل,character/NPC name,Shop co-owner name in Area_ExShop_A4: 'オリバーとロウエルの店',yes,Shop co-owner name in Area_ExShop_A4: 'オリバーとロウエルの店'
+ウェイゼン,ويزن,location/faction name,"Department store name and apparently a city/faction: 'ウェイゼン百貨店', referenced in dialogue about armor from the magic era",yes,"Department store name and apparently a city/faction: 'ウェイゼン百貨店', referenced in dialogue about armor from the magic era"
+マギー,ماغي,character/NPC name,Shop owner name in Area_Shop_A3: 'マギーのよろず屋',yes,Shop owner name in Area_Shop_A3: 'マギーのよろず屋'
+バケネコ,القط المسحور,enemy/creature type,"Supernatural shape-shifting cat creature (Bakeneko from Japanese folklore), appears in M06_E05_0100",yes,"Supernatural shape-shifting cat creature (Bakeneko from Japanese folklore), appears in M06_E05_0100"
+憎悪の魔獣,الوحش السحري المكروه,enemy type (compound),Specific enemy sub-type referenced in ACCESSORY_16C_DESCRIPTION. Base term 魔獣=الوحش السحري (glossary); 憎悪=مكروه added as modifier,yes,Specific enemy sub-type referenced in ACCESSORY_16C_DESCRIPTION. Base term 魔獣=الوحش السحري (glossary); 憎悪=مكروه added as modifier
+継続回復,الشفاء المستمر,buff/status effect,Buff granted by ヒューリア's magic in LastBattleBuff_1,yes,Buff granted by ヒューリア's magic in LastBattleBuff_1
+無限オールガード,الحراسة الشاملة اللانهائية,buff/status effect,Buff granted by マオ's magic in LastBattleBuff_2,yes,Buff granted by マオ's magic in LastBattleBuff_2
+フロギー族,قبيلة فروغِي,Creature/Enemy Type,EL_NPC4020_P015_M020_NPC4020_m,yes,EL_NPC4020_P015_M020_NPC4020_m
+闘志の薬,جرعة الروح القتالية,Item/Consumable,EL_NPC4314_P015_M030_NPC4314_m,yes,EL_NPC4314_P015_M030_NPC4314_m
+不屈の薬,جرعة الصمود,Item/Consumable,EL_NPC4314_P015_M030_NPC4314_m,yes,EL_NPC4314_P015_M030_NPC4314_m
+マギーのよろず屋,متجر ماغي المتنوع,Location/Shop,EL_S03_N11_1000_01_C01_txt01,yes,EL_S03_N11_1000_01_C01_txt01
+思い出の味,مذاق الذكريات,Dish Name,EL_S04_N06_3300_M110_NPC0030_m,yes,EL_S04_N06_3300_M110_NPC0030_m
+ジャストガード,الحراسة المثالية,combat,SHIELD_2B_DESCRIPTION,yes,SHIELD_2B_DESCRIPTION
+空っぽのガラス管,أنبوب زجاجي فارغ,item_name,Tutorial_Bottle_01_1_Title,yes,Tutorial_Bottle_01_1_Title
+ネコ探知の針,إبرة تعقب القطط,item_name,Tutorial_CatCompass_01_1_Title,yes,Tutorial_CatCompass_01_1_Title
+魔力コンパス,بوصلة القوة السحرية,item_name,Tutorial_Compass_01_1_Title,yes,Tutorial_Compass_01_1_Title
+ロウエル,رولل,character/NPC name,Shop co-owner name in Area_ExShop_A4: 'オリバーとロウエルの店',yes,coined in batch34
+ウェイゼン,ويزن,location/faction name,"Department store name and apparently a city/faction: 'ウェイゼン百貨店', referenced in dialogue about armor from the magic era",yes,coined in batch34
+マギー,ماغي,character/NPC name,Shop owner name in Area_Shop_A3: 'マギーのよろず屋',yes,coined in batch34
+バケネコ,القط المسحور,enemy/creature type,"Supernatural shape-shifting cat creature (Bakeneko from Japanese folklore), appears in M06_E05_0100",yes,coined in batch34
+憎悪の魔獣,الوحش السحري المكروه,enemy type (compound),Specific enemy sub-type referenced in ACCESSORY_16C_DESCRIPTION. Base term 魔獣=الوحش السحري (glossary); 憎悪=مكروه added as modifier,yes,coined in batch34
+継続回復,الشفاء المستمر,buff/status effect,Buff granted by ヒューリア's magic in LastBattleBuff_1,yes,coined in batch34
+無限オールガード,الحراسة الشاملة اللانهائية,buff/status effect,Buff granted by マオ's magic in LastBattleBuff_2,yes,coined in batch34
+フロギー族,قبيلة فروغِي,Creature/Enemy Type,EL_NPC4020_P015_M020_NPC4020_m,yes,coined in batch34
+闘志の薬,جرعة الروح القتالية,Item/Consumable,EL_NPC4314_P015_M030_NPC4314_m,yes,coined in batch34
+不屈の薬,جرعة الصمود,Item/Consumable,EL_NPC4314_P015_M030_NPC4314_m,yes,coined in batch34
+マギーのよろず屋,متجر ماغي المتنوع,Location/Shop,EL_S03_N11_1000_01_C01_txt01,yes,coined in batch34
+思い出の味,مذاق الذكريات,Dish Name,EL_S04_N06_3300_M110_NPC0030_m,yes,coined in batch34
+ジャストガード,الحراسة المثالية,combat,SHIELD_2B_DESCRIPTION,yes,coined in batch34
+空っぽのガラス管,أنبوب زجاجي فارغ,item_name,Tutorial_Bottle_01_1_Title,yes,coined in batch34
+ネコ探知の針,إبرة تعقب القطط,item_name,Tutorial_CatCompass_01_1_Title,yes,coined in batch34
+魔力コンパス,بوصلة القوة السحرية,item_name,Tutorial_Compass_01_1_Title,yes,coined in batch34
+ウルヴ族,قبيلة أولف,faction,enemy tribe/clan (M03),no,coined M03; transliteration; standardized over الوُلف
+ミュー族,قبيلة ميو,faction,Mao's ancestral tribe (M03),no,"coined M03; proper-name construct, no ال; matches M05 title"
+マギカニ,ماغيكاني,creature,Magicani creature (M03),no,coined M03
+フォマニット研究所,معهد فومانيت للأبحاث,location,Fomanit Research Institute (M03),maybe,coined M03
+フォザワール,فوزاوال,location,rival institute (M03),no,coined M03
+月鏡の盾,درع مرآة القمر,item,Moon-Mirror Shield (M03),yes,coined M03; agreed across 2 translators
+エルダーゲート,بوابة إيلدر,location,Elder Gate = باب الزمن (M03),yes,coined M03; consistent with إيلدر/Elder
+ツール,تول,currency,currency unit (M03),no,coined M03; transliteration
+蛮族,البرابرة,faction,generic savages/barbarians; the Ulv are 蛮族 (M03/M04),yes,standardized over القبائل المتوحشة
+ブーストコア,نواة الدفع,item,Boost Core (M04),yes,coined M04
+かがりの花,زهرة الموقد,item,Kagari flower (M04),yes,"bonfire(篝)-flower; meaning-based, matches item name EL_SCN_0080_NAME"
+ゴギョウ,غوغيو,character_name,"Gogyou, Mao's father (M04)",no,coined M04
+萌芽の時代,عصر النشوء,age_name,'Age of Budding' pre-magic era (M05),yes,aligned to M02 establishment (was عصر البزوغ)
+バイカン,بايكان,character_name,"Baikan, merchant (M05)",no,coined M05
+カロテシア,كاروتيشيا,location,Carotesia place name (M05),no,coined M05
+火の鳥,العنقاء,creature,firebird/phoenix divine beast (M05),yes,coined M05; unified with 不死鳥; VERIFY EN
+不死鳥山,جبل العنقاء,location,Phoenix Mountain volcano (M05),yes,coined M05; unified phoenix term
+北の白楼,برج الشمال الأبيض,location,Northern White Tower (M05),yes,established majority form; fits UI; standardized
+カイ,كاي,character_name,"Kai, village/faction leader NPC0200 (M05) — NOT Kaifried",no,coined M05; distinct from كايفرايد
+三賢者,الحكماء الثلاثة,lore_term,the Three Sages (M05),yes,coined M05
+白銀の鈴,الجرس الفضي,item,Silver Bell heirloom (M05),yes,coined M05
+神獣,الوحش الإلهي,creature,divine beast (M05),yes,coined M05
+氷結の呪い,لعنة التجميد,term,freeze curse (M05),yes,standardized التجميد (not التجمد)
+氷結の封印,ختم التجميد,term,freeze seal (M05),yes,standardized التجميد
+封魔の奥義,سرّ ختم الشرّ,lore_term,secret art of sealing evil/the beast (M05),yes,封魔=sealing EVIL not magic; corrected from ختم السحر
+ノイーワン,نويوان,character_name,"Noiwan, leader of the Three Sages (M06)",no,coined M06
+ウザン,أوزان,character_name,"Uzan, Ichiru's adoptive father, ex-guard captain (M06)",no,coined M06
+琥珀のペンダント,القلادة الكهرمانية,item,"amber pendant, royal heirloom (M06)",yes,coined M06
+黒の賢者,الحكيم الأسود,character_name,Black Sage (M06),yes,coined M06
+白の賢者,الحكيمة البيضاء,character_name,"White Sage NPC0530 (female, M06)",yes,coined M06; female
+マギン,ماغين,creature,Magin automaton/golem (side),no,coined side; standardized over مغين/الماغن
+魔吸石,حجر امتصاص السحر,item,magic-absorbing stone (side),yes,coined side
+サンディ,ساندي,character_name,"Sandy, orphan girl (NPC4379)",no,coined side; FEMALE
+バカンテ,باكانتي,character_name,"Bacante, tavern regular",no,coined side
+ニック,نيك,character_name,"Nick, orphanage boy (NPC4389)",no,coined side
+ナカタニ,ناكاتاني,character_name,"Nakatani, musician (NPC0410)",no,coined side
+タドコロ,تادوكورو,character_name,"Tadokoro, Black Sage (NPC0520)",no,coined side
+サヘキ,ساهيكي,character_name,"Saheki, Brown/White Sage (NPC0530)",no,coined side
+ヒラルダ,هيرالدا,character_name,"Hiralda, Hildebrandt's elder sister",no,coined side; standardized over هيلاردا
+フロン,فرون,character_name,"Furon, frontier settler",no,coined side
+エレファン族,قبيلة إليفان,faction,Elephan tribe (savages),no,coined side; standardized
+ラッティ族,قبيلة راتّي,faction,Ratty tribe (desert savages),no,coined side
+トリン族,قبيلة ترين,faction,Trin tribe (savages),no,coined side
+リトルホープ,قرية الأمل الصغير,location,Little Hope village (Reconstruction era),yes,coined side; standardized over ليتل هوب
+ホワイト・エリア,المنطقة البيضاء,location,"White Area (snowfield, Ulv land)",yes,coined side
+ウエスト・エリア,المنطقة الغربية,location,West Area (swamp),yes,coined side
+ネバ・ウィザー,نيفا ويذر,location,Neva Wither (forest region),no,coined side; standardized
+エッダ・トレイル,درب إيدا,location,Edda Trail (desert),yes,coined side
+エレッグ,إيليغ,creature,Eleg fire creature,no,coined side
+パミル茸,فطر باميل,item,Pamil mushroom,yes,coined side
+ワンダフル,وندرفول,item,'Wonderful' toy automaton,no,coined side; standardized

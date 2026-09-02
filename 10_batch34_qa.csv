@@ -1,0 +1,557 @@
+id,ftext_key,category,source_text,arabic_translation,notes,placeholders
+EL_002A77DE46F91466246AE1B58111B62D,002A77DE46F91466246AE1B58111B62D,skill_description,クリティカルダメージ上昇,زيادة ضرر الحرجة,,[]
+EL_03B7F3EF41AC5580B36ADCBBDFB82231,03B7F3EF41AC5580B36ADCBBDFB82231,item_name,ませきのなまえ,اسم حجر السحر,Hiragana placeholder text meaning 'name of magic stone'. Translated as generic label.,[]
+EL_0A16B463475BEE0A579C2A84D5D62F17,0A16B463475BEE0A579C2A84D5D62F17,quest_title,クリア報酬,مكافأة الإنهاء,,[]
+EL_0AE1640344D076AB9611A28E06490788,0AE1640344D076AB9611A28E06490788,item_description,装備切り替えショートカット起動,تفعيل اختصار تبديل التجهيزات,,[]
+EL_128CDF6C4B9AD9A496D0AE804602FF5E,128CDF6C4B9AD9A496D0AE804602FF5E,skill_description,アビリティ切り替え・逆送り,تبديل القدرة — عكسي,,[]
+EL_1970A8D14549CEE5056292AE534D785A,1970A8D14549CEE5056292AE534D785A,skill_description,サポートアビリティ使用,استخدام قدرة الدعم,,[]
+EL_1C000D1C478083C4EE668AAAD66ED134,1C000D1C478083C4EE668AAAD66ED134,quest_title,クエスト,المهام,,[]
+EL_2BA3005B4E2A8361EA7FECBD39A909FF,2BA3005B4E2A8361EA7FECBD39A909FF,item_name,装備中の魔石,حجر السحر المجهَّز,,[]
+EL_3AFF63934F5DBEA87F92D28CC25C1C97,3AFF63934F5DBEA87F92D28CC25C1C97,item_name,魔石箱レベル,مستوى صندوق حجر السحر,[FIT-CHECK: short_arabic: مستوى صندوق الحجر],[]
+EL_4201DA654F21A83F7C7EDA8995E99C19,4201DA654F21A83F7C7EDA8995E99C19,skill_description,サポートアビリティ使用,استخدام قدرة الدعم,,[]
+EL_4C26395643FB3478EBBBD1A0870E4E2B,4C26395643FB3478EBBBD1A0870E4E2B,item_name,装備中の魔石,حجر السحر المجهَّز,,[]
+EL_50C4E22340AD6631A346EA8A090D78A9,50C4E22340AD6631A346EA8A090D78A9,skill_description,・ライフが０になる際に自動で回復薬を使用：あり,· استخدام دواء الشفاء تلقائيًا عند نفاد نقاط الصحة: مفعَّل,,[]
+EL_50E9B2D943015F3782D8938175A06A2A,50E9B2D943015F3782D8938175A06A2A,item_name,魔石の欠片,شظية حجر السحر,,[]
+EL_54DE17FD46F54A57A3677ABDE734E5C3,54DE17FD46F54A57A3677ABDE734E5C3,item_name,装備,التجهيزات,,[]
+EL_565B15124F1B408915741A8FD141EF07,565B15124F1B408915741A8FD141EF07,item_name,装備中の魔石,حجر السحر المجهَّز,,[]
+EL_575788FF406130120EB223BB2593FD84,575788FF406130120EB223BB2593FD84,skill_name,アビリティ,القدرات,,[]
+EL_5BAB103B4AF6EF4CE3A5F68B0D6AC329,5BAB103B4AF6EF4CE3A5F68B0D6AC329,quest_title,クエスト状況確認,مراجعة حالة المهمة,,[]
+EL_5E83356B4FAE046DB4F2F18B5464E342,5E83356B4FAE046DB4F2F18B5464E342,item_name,装備中の魔石,حجر السحر المجهَّز,,[]
+EL_62A8E4324F23C56DD6BF7899569EA6E4,62A8E4324F23C56DD6BF7899569EA6E4,item_description,"""・縦の耐久力が９０％以上の時、<img id=""""RI_ICON_WPN_BOMB""""/>のダメージが１０％上昇""","""· عندما تبلغ المتانة الرأسية ٩٠٪ أو أكثر، يزداد ضرر <img id=""""RI_ICON_WPN_BOMB""""/> بنسبة ١٠٪""",Placeholder preserved exactly.,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_6336900244F841A7917EB5AFA3F70B0E,6336900244F841A7917EB5AFA3F70B0E,item_description,魔石をランダムに生成,توليد حجر السحر عشوائيًا,,[]
+EL_765F0EF74EB3F52C46A36BBDC2C4FC37,765F0EF74EB3F52C46A36BBDC2C4FC37,skill_description,アビリティ切替ショートカット起動,تفعيل اختصار تبديل القدرات,,[]
+EL_7F2D6C30451F76A1972C699C315BCE3E,7F2D6C30451F76A1972C699C315BCE3E,quest_description,ドラゴンクエストIII そして伝説へ…,Dragon Quest III: ونحو الأسطورة…,"Proper title — 'Dragon Quest III' kept as brand name, subtitle translated naturally.",[]
+EL_8CCEEC704E078490B39BE5AA9EFF181C,8CCEEC704E078490B39BE5AA9EFF181C,skill_description,サポートアビリティショートカット,اختصار قدرة الدعم,,[]
+EL_94CB6B4242FDAF94A47D059B9650180B,94CB6B4242FDAF94A47D059B9650180B,skill_description,・敵との接触ダメージ：なし,· الضرر عند ملامسة الأعداء: معطَّل,,[]
+EL_984BECFB41B4D816D0AA8C9A82EB6BAB,984BECFB41B4D816D0AA8C9A82EB6BAB,item_name,魔石箱レベル,مستوى صندوق حجر السحر,[FIT-CHECK: short_arabic: مستوى صندوق الحجر],[]
+EL_98DF8EA94868BA0B429D7C9CE8500EAF,98DF8EA94868BA0B429D7C9CE8500EAF,item_name,魔石の生成,صياغة حجر السحر,,[]
+EL_996A5FD545DBEC19226211B4C67DA230,996A5FD545DBEC19226211B4C67DA230,item_name,装備中の魔石,حجر السحر المجهَّز,,[]
+EL_A9_TITLE_2_NAME,A9_TITLE_2_NAME,quest_title,ドラゴンクエストI＆II,Dragon Quest I & II,Proper brand title — kept in English as internationally recognised.,[]
+EL_AB23619544AC81C36AF8BE9DD146913C,AB23619544AC81C36AF8BE9DD146913C,item_name,未装備,غير مجهَّز,,[]
+EL_ABFCC3EA4672D1845555E4AC4C6B8DB4,ABFCC3EA4672D1845555E4AC4C6B8DB4,skill_description,"Joshua Anderson
+ABILITY,アビリティの変更、確認が行なえます,サポート","Joshua Anderson
+ABILITY,يمكنك تغيير القدرات ومراجعتها,دعم",Structured metadata line — English/code parts preserved; Japanese description translated.,[]
+EL_ACCE_EX_1_DESCRIPTION,ACCE_EX_1_DESCRIPTION,item_description,・アクセサリの装備枠が{Num:1}追加,· إضافة {Num:1} خانة تجهيز للإكسسوار,Placeholder {Num:1} preserved.,[]
+EL_ACCE_EX_2_DESCRIPTION,ACCE_EX_2_DESCRIPTION,item_description,・アクセサリの装備枠が{Num:1}追加,· إضافة {Num:1} خانة تجهيز للإكسسوار,Placeholder {Num:1} preserved.,[]
+EL_ACCESSORY_11_DESCRIPTION,ACCESSORY_11_DESCRIPTION,skill_description,・フェイの魔力の回復速度が{Num:1}％上昇,· تزداد سرعة استعادة القوة السحرية لـفاي بنسبة {Num:1}٪,Placeholder {Num:1} preserved. فاي from glossary.,[]
+EL_ACCESSORY_14_DESCRIPTION,ACCESSORY_14_DESCRIPTION,skill_description,・奈落、マグマへの落下時、ダメージを受けない,· لا تتلقى ضررًا عند السقوط في الهاوية أو الحمم البركانية,,[]
+EL_ACCESSORY_16C_DESCRIPTION,ACCESSORY_16C_DESCRIPTION,skill_description,・憎悪の魔獣から受けるダメージを{Num:1}％軽減,· تخفيض الضرر الوارد من الوحش السحري المكروه بنسبة {Num:1}٪,憎悪の魔獣 coined as 'الوحش السحري المكروه'; 魔獣 = الوحش السحري (glossary). {Num:1} preserved.,[]
+EL_ACCESSORY_21_DESCRIPTION,ACCESSORY_21_DESCRIPTION,skill_description,・ガード成功時、ダメージを与える斬撃が発生,· عند نجاح الحراسة، يصدر ضربة قاطعة تلحق الضرر بالأعداء,,[]
+EL_ACCESSORY_7_DESCRIPTION,ACCESSORY_7_DESCRIPTION,skill_description,・ガード成功時、ダメージを与えるトゲが発生,· عند نجاح الحراسة، تنبثق أشواك تلحق الضرر بالأعداء,,[]
+EL_Area_ExShop_A4,Area_ExShop_A4,item_description,道具屋『オリバーとロウエルの店』,متجر الأدوات «لافتة أوليفر ورولل»,ロウエル (Rowel/Rowell) not in glossary — coined رولل. أوليفر from glossary.,[]
+EL_Area_MagicShop_A1,Area_MagicShop_A1,item_description,魔石屋『ミューミュー』,متجر أحجار السحر «ميو ميو»,Shop name ミューミュー = Mew Mew using glossary: ميو.,[]
+EL_Area_MagicShop_A2,Area_MagicShop_A2,item_description,魔石屋『ミューミュー』,متجر أحجار السحر «ميو ميو»,Shop name ミューミュー = Mew Mew using glossary: ميو.,[]
+EL_Area_MagicShop_A3,Area_MagicShop_A3,item_description,魔石屋『ミューミュー』,متجر أحجار السحر «ميو ميو»,Shop name ミューミュー = Mew Mew using glossary: ميو.,[]
+EL_Area_MagicShop_A4,Area_MagicShop_A4,item_description,魔石屋『ミューミュー』,متجر أحجار السحر «ميو ميو»,Shop name ミューミュー = Mew Mew using glossary: ميو.,[]
+EL_Area_Shop_A1,Area_Shop_A1,item_description,道具屋『泉の祈り』,متجر الأدوات «صلاة النبع»,,[]
+EL_Area_Shop_A2,Area_Shop_A2,item_description,道具屋『ウェイゼン百貨店』,متجر الأدوات «دار ويزن التجارية»,ウェイゼン (Weizen) coined: ويزن.,[]
+EL_Area_Shop_A3,Area_Shop_A3,item_description,道具屋『マギーのよろず屋』,متجر الأدوات «دكان ماغي للكل»,マギー (Maggie) coined: ماغي.,[]
+EL_Area_Shop_A4,Area_Shop_A4,item_description,道具屋『冒険の加護』,متجر الأدوات «بركة المغامرة»,加護 rendered as بركة (blessing/grace) in this shop-name context.,[]
+EL_ArenaFirstReward,ArenaFirstReward,quest_title,クリア報酬,مكافأة الإنهاء,,[]
+EL_ArenaFloorTargetTime,ArenaFloorTargetTime,quest_title,目標タイム,الوقت المستهدف,,[]
+EL_ArenaRewardDetail,ArenaRewardDetail,quest_title,報酬詳細,تفاصيل المكافأة,,[]
+EL_ARROW_EX_1_FLAVOR,ARROW_EX_1_FLAVOR,item_description,十分な矢を収納できる矢筒。\n弓を愛する冒険家に好まれる装備品。,جعبة سهام تتسع لعدد وافر من السهام.\nتجهيز يُفضّله المغامرون العاشقون للقوس.,\n preserved exactly.,"[""\\n""]"
+EL_BOMB_EX_1_FLAVOR,BOMB_EX_1_FLAVOR,item_description,爆弾を持ち歩くのに便利なポーチ。\n爆弾を愛する冒険家に好まれる装備品。,حقيبة عملية لحمل القنابل في أثناء التنقل.\nتجهيز يُفضّله المغامرون العاشقون للقنابل.,\n preserved exactly.,"[""\\n""]"
+EL_C1AF17FF4513A64E1480F5AB97386EEC,C1AF17FF4513A64E1480F5AB97386EEC,skill_description,サポートアビリティショートカット,اختصار قدرة الدعم,,[]
+EL_CAT_TOY_3_FLAVOR,CAT_TOY_3_FLAVOR,item_description,どこの家庭にもある、ころころとよく転がる玉。\nネコちゃんには楽しい遊び道具になってしまう。,كرة تتدحرج بسلاسة توجد في كل بيت.\nتتحول بالنسبة للقطط إلى لعبة ممتعة لا تُقاوم.,\n preserved exactly.,"[""\\n""]"
+EL_CommonFooterEquip,CommonFooterEquip,item_name,装備,التجهيزات,,[]
+EL_CommonFooterStonePreset,CommonFooterStonePreset,item_name,魔石,حجر السحر,,[]
+EL_CommonRewordDetail,CommonRewordDetail,quest_title,報酬確認,تأكيد المكافأة,,[]
+EL_DDC0E3C84C26394FAB92F98EBA3571B1,DDC0E3C84C26394FAB92F98EBA3571B1,quest_description,ドラゴンクエストIII そして伝説へ…,Dragon Quest III: ونحو الأسطورة…,"Proper title — 'Dragon Quest III' kept as brand name, subtitle translated naturally.",[]
+EL_DebugAchievement_SetRare5MagicStone,DebugAchievement_SetRare5MagicStone,item_description,(内部判定)究極の魔石を求めて,(حكم داخلي) بحثًا عن حجر السحر الأقصى,Debug string — internal tag translated.,[]
+EL_DebugBattle_ForceCritical,DebugBattle_ForceCritical,skill_name,必ずクリティカル,حرجة دائمًا,,[]
+EL_DebugBattle_NoContactDamage,DebugBattle_NoContactDamage,skill_name,接触ダメージ無効,تعطيل ضرر الملامسة,,[]
+EL_DebugBattle_NoDecreaseHpEnemy,DebugBattle_NoDecreaseHpEnemy,skill_description,被ダメージ無効、敵,تعطيل الضرر الوارد — الأعداء,,[]
+EL_DebugBattle_NoDecreaseHpPlayer,DebugBattle_NoDecreaseHpPlayer,skill_description,被ダメージ無効、プレイヤー,تعطيل الضرر الوارد — اللاعب,,[]
+EL_DebugBattle_PercentDamageEnemy,DebugBattle_PercentDamageEnemy,skill_name,割合ダメージ、敵,ضرر نسبي — الأعداء,,[]
+EL_DebugForcedTrophy_ACH_MAX_MAGIC_STONE_RANK,DebugForcedTrophy_ACH_MAX_MAGIC_STONE_RANK,item_description,魔石プロフェッサー,أستاذ أحجار السحر,,[]
+EL_DebugForcedTrophy_ACH_RARE_5_MAGIC_STONE,DebugForcedTrophy_ACH_RARE_5_MAGIC_STONE,item_description,究極の魔石を求めて,بحثًا عن حجر السحر الأقصى,,[]
+EL_DebugGame_ClearGetItemNums,DebugGame_ClearGetItemNums,item_description,各アイテム累計入手数を全てクリアする,إعادة تعيين العدد التراكمي للعناصر المحصَّلة لكل بند,,[]
+EL_DebugGame_EditMsPiece,DebugGame_EditMsPiece,item_description,魔石の欠片所持数変更(L2/R2 ±100),تعديل عدد شظايا حجر السحر المحمولة (L2/R2 ±100),Button labels L2/R2 preserved.,[]
+EL_DebugGame_UnlockMenuQuest,DebugGame_UnlockMenuQuest,quest_title,クエストメニュー開放,فتح قائمة المهام,,[]
+EL_DebugLevel_ShowHideRequestor,DebugLevel_ShowHideRequestor,quest_description,非表示リクエストの状況表示,عرض حالة الطلبات المخفية,,[]
+EL_DebugPlayer_PlayerFixChargeDirection,DebugPlayer_PlayerFixChargeDirection,skill_name,チャージ向き固定,تثبيت اتجاه الشحن,,[]
+EL_DebugUMG_EditMagicStone,DebugUMG_EditMagicStone,item_name,魔石メニュー,قائمة أحجار السحر,,[]
+EL_DebugUMG_MagicStoneLottery,DebugUMG_MagicStoneLottery,item_name,魔石ガチャ,سحب أحجار السحر,ガチャ (gacha) rendered as سحب (draw/pull).,[]
+EL_DebugUMG_MemoryViewer,DebugUMG_MemoryViewer,quest_description,ストーリービューア（記憶＆クエスト）,عارض القصة (الذكريات والمهام),,[]
+EL_DebugUMG_SubQuest,DebugUMG_SubQuest,quest_title,サブクエスト編集,تعديل المهام الفرعية,,[]
+EL_DLC_TITLE_5_NAME,DLC_TITLE_5_NAME,item_description,エリオット旅立ちパック②：剣の魔石『攻撃力上昇』,حزمة انطلاق إليوت ②: حجر السحر للسيف «زيادة الهجوم»,② preserved. Glossary applied: إليوت، السيف، الهجوم.,[]
+EL_E109055B407F8CAF6756A7938849984C,E109055B407F8CAF6756A7938849984C,skill_name,アビリティ,القدرات,,[]
+EL_EA2316804EC61CBD27B355A386C4E710,EA2316804EC61CBD27B355A386C4E710,item_name,装備コストの拡張,توسيع تكلفة التجهيز,,[]
+EL_EDebugMenuPage_DebugBonus,EDebugMenuPage_DebugBonus,skill_name,特典付与,منح المكافأة الخاصة,,[]
+EL_F0123B8C4655AACCD3F7EFAF6FB4A748,F0123B8C4655AACCD3F7EFAF6FB4A748,skill_description,アビリティ切り替え・順送り,تبديل القدرة — تقدمي,,[]
+EL_F580B0924286A55CA342B498403C6A49,F580B0924286A55CA342B498403C6A49,item_description,"""・縦の耐久力が９０％以上の時、<img id=""""RI_ICON_WPN_BOMB""""/>のダメージが１０％上昇""","""· عندما تبلغ المتانة الرأسية ٩٠٪ أو أكثر، يزداد ضرر <img id=""""RI_ICON_WPN_BOMB""""/> بنسبة ١٠٪""",Placeholder preserved exactly.,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_FAD2B55146A960EAD69248B3E533B176,FAD2B55146A960EAD69248B3E533B176,skill_name,回復薬（小）×１,دواء الشفاء (صغير) ×١,,[]
+EL_ITEM_BUFF_ATTACK_NAME,ITEM_BUFF_ATTACK_NAME,skill_description,ドロップアイテム　攻撃力バフ,عنصر مسقَط — تعزيز الهجوم,,[]
+EL_ITEM_BUFF_DEFENSE_NAME,ITEM_BUFF_DEFENSE_NAME,skill_description,ドロップアイテム　防御力バフ,عنصر مسقَط — تعزيز الدفاع,,[]
+EL_ITEM_CONTAINER_COOLTIME_DESCRIPTION,ITEM_CONTAINER_COOLTIME_DESCRIPTION,item_description,"""・一定時間、<img id=""""RI_ICON_BUFF_SUPPORT""""/>フェイの魔力を消費しなくなる""","""· لفترة محدودة، لا تستهلك <img id=""""RI_ICON_BUFF_SUPPORT""""/> قوة فاي السحرية""",Placeholder preserved. فاي from glossary.,"[""<img id=\""\""RI_ICON_BUFF_SUPPORT\""\""/>""]"
+EL_ITEM_CONTAINER_HP_1_DESCRIPTION,ITEM_CONTAINER_HP_1_DESCRIPTION,skill_description,"""・<img id=""""RI_ICON_LIFE_FULL""""/>を{Num:1}回復""","""· يستعيد <img id=""""RI_ICON_LIFE_FULL""""/> {Num:1} من نقاط الصحة""",Placeholders preserved.,"[""<img id=\""\""RI_ICON_LIFE_FULL\""\""/>""]"
+EL_ITEM_CONTAINER_HP_1_FLAVOR,ITEM_CONTAINER_HP_1_FLAVOR,skill_description,ガラス管に入れて使用する回復薬。\n冒険家になくてはならない一品。,دواء شفاء يُستخدم في أنبوب زجاجي.\nعنصر لا غنى عنه لأي مغامر.,\n preserved.,"[""\\n""]"
+EL_ITEM_CONTAINER_HP_1_NAME,ITEM_CONTAINER_HP_1_NAME,skill_name,回復の薬,دواء الشفاء,,[]
+EL_ITEM_CONTAINER_HP_2_DESCRIPTION,ITEM_CONTAINER_HP_2_DESCRIPTION,skill_description,"""・<img id=""""RI_ICON_LIFE_FULL""""/>を{Num:1}回復""","""· يستعيد <img id=""""RI_ICON_LIFE_FULL""""/> {Num:1} من نقاط الصحة""",Placeholders preserved.,"[""<img id=\""\""RI_ICON_LIFE_FULL\""\""/>""]"
+EL_ITEM_CONTAINER_HP_2_FLAVOR,ITEM_CONTAINER_HP_2_FLAVOR,skill_description,ガラス管に入れて使用する回復薬。\n改良が加わり、さらに生命の力が回復される。,دواء شفاء يُستخدم في أنبوب زجاجي.\nمُحسَّن ليستعيد قدرًا أكبر من قوة الحياة.,\n preserved.,"[""\\n""]"
+EL_ITEM_CONTAINER_HP_2_NAME,ITEM_CONTAINER_HP_2_NAME,skill_name,回復の薬（上）,دواء الشفاء (متقدم),,[]
+EL_ITEM_CONTAINER_HP_3_DESCRIPTION,ITEM_CONTAINER_HP_3_DESCRIPTION,skill_description,"""・<img id=""""RI_ICON_LIFE_FULL""""/>を{Num:1}回復""","""· يستعيد <img id=""""RI_ICON_LIFE_FULL""""/> {Num:1} من نقاط الصحة""",Placeholders preserved.,"[""<img id=\""\""RI_ICON_LIFE_FULL\""\""/>""]"
+EL_ITEM_CONTAINER_HP_3_FLAVOR,ITEM_CONTAINER_HP_3_FLAVOR,skill_description,ガラス管に入れて使用する回復薬。\nさらに改良が加わり、たくさん生命の力が回復される。,دواء شفاء يُستخدم في أنبوب زجاجي.\nمحسَّن بشكل أكبر، يستعيد كميات وفيرة من قوة الحياة.,\n preserved.,"[""\\n""]"
+EL_ITEM_CONTAINER_HP_3_NAME,ITEM_CONTAINER_HP_3_NAME,skill_name,回復の薬（特）,دواء الشفاء (فائق),,[]
+EL_ITEM_CONTAINER_HP_4_DESCRIPTION,ITEM_CONTAINER_HP_4_DESCRIPTION,skill_description,"""・<img id=""""RI_ICON_LIFE_FULL""""/>をすべて回復\n・<img id=""""RI_ICON_LIFE_FULL""""/>の上限が一時的に{Num:1}増加""","""· يستعيد جميع نقاط <img id=""""RI_ICON_LIFE_FULL""""/> الصحة\n· تزداد الحد الأقصى لـ<img id=""""RI_ICON_LIFE_FULL""""/> مؤقتًا بمقدار {Num:1}""",All placeholders and \n preserved exactly.,"[""<img id=\""\""RI_ICON_LIFE_FULL\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_LIFE_FULL\""\""/>""]"
+EL_ITEM_CONTAINER_HP_4_NAME,ITEM_CONTAINER_HP_4_NAME,skill_name,回復の薬（超絶）,دواء الشفاء (خارق),,[]
+EL_ITEM_CONTAINER_STEALTH_FLAVOR,ITEM_CONTAINER_STEALTH_FLAVOR,skill_description,ガラス管に入れて使用するサポート薬。\n気配を消す効果のある不思議な実からつくられている。,دواء دعم يُستخدم في أنبوب زجاجي.\nمصنوع من ثمرة غريبة تمنح تأثير إخفاء الأثر.,\n preserved.,"[""\\n""]"
+EL_ITEM_Important,ITEM_Important,item_description,"<OFF>大事なもの</>
+ITEM,装備品の変更、確認が行なえます,アイテム","<OFF>أشياء مهمة</>
+ITEM,يمكنك تغيير التجهيزات ومراجعتها,عناصر",Tags <OFF> and </> preserved exactly.,"[""<OFF>"", ""</>""]"
+EL_ItemTextBoxMoneyMagicStoneFrag,ItemTextBoxMoneyMagicStoneFrag,item_name,魔石の欠片,شظية حجر السحر,,[]
+EL_LastBattleBuff_1,LastBattleBuff_1,skill_description,ヒューリアの魔法で『継続回復』が付与！,منحت سحر هيوريا تأثير «الشفاء المستمر»!,«» used for 「」. هيوريا from glossary.,[]
+EL_LastBattleBuff_2,LastBattleBuff_2,skill_description,マオの魔法で『無限オールガード』が付与！,منحت سحر ماو تأثير «الحراسة الشاملة اللانهائية»!,«» used for 「」. ماو from glossary.,[]
+EL_M01_E01_3000,M01_E01_3000,quest_description,一方その頃、主人公。受けた依頼をこなそうとしていた。,في الوقت ذاته، كان البطل يسعى إلى إنجاز المهمة التي قبِلها.,Narrator caption — no speaker_gender.,[]
+EL_M01_E02_1000_Title,M01_E02_1000_Title,quest_title,依頼の達成,إنجاز المهمة,,[]
+EL_M01_E02_1000,M01_E02_1000,quest_title,依頼品「櫛」を見つける,إيجاد «المشط» المطلوب,「」→ «».,[]
+EL_M01_E03_2000_M140_NPC4029_m,M01_E03_2000_M140_NPC4029_m,quest_description,危険な依頼をしたのに\nお礼が少なくてすまないが……,آسف لأن المكافأة قليلة…\\nرغم خطورة المهمة التي كلّفتُك بها.,speaker_gender: m — masculine NPC. \\n preserved.,"[""\\n""]"
+EL_M01_E04_1000_M110_NPC0010_f,M01_E04_1000_M110_NPC0010_f,quest_description,危険な依頼です。\n無理はなさらないで。,إنها مهمة خطرة.\\nلا تُجهِد نفسك من فضلك.,"speaker_gender: f — feminine NPC, polite register. \\n preserved.","[""\\n""]"
+EL_M01_E07_1100_Title,M01_E07_1100_Title,item_name,魔石の行商人,تاجر أحجار السحر المتجوّل,[FIT-CHECK: short_arabic: تاجر أحجار السحر],[]
+EL_M01_E07_2100_M090_NPC4229_m,M01_E07_2100_M090_NPC4229_m,item_description,結晶化した魔力の欠片……『魔石の欠片』だ。\nいくつか集めて生成すると、『魔石』になる。,هذه شظية قوة سحرية متبلّرة… «شظية حجر السحر».\\nاجمع عددًا منها وصُغها لتحصل على «حجر السحر».,speaker_gender: m — masculine NPC. 「」→ «». \\n preserved.,"[""\\n""]"
+EL_M01_E07_2100_M100_NPC4229_m,M01_E07_2100_M100_NPC4229_m,item_description,魔石は力となり、\n道を切り拓く者に祝福を与える。,يمنح حجر السحر قوةً،\\nويبارك كل من يشق طريقه إلى الأمام.,speaker_gender: m — masculine NPC. \\n preserved.,"[""\\n""]"
+EL_M01_E07_2100_M150_NPC4229_m,M01_E07_2100_M150_NPC4229_m,item_description,きっと会うのは一度だけではないはずだ。\nさあ、さっそく魔石を生成していってくれ。,أنا متأكد أن لقاءنا لن يكون الأخير.\\nهيا، ابدأ بصياغة أحجار السحر الآن.,speaker_gender: m — masculine NPC. \\n preserved.,"[""\\n""]"
+EL_M01_E10_1000_M130_NPC0030_m,M01_E10_1000_M130_NPC0030_m,quest_description,エリオット、よくぞ我が依頼を果たしてくれた。,إليوت، أحسنتَ في إنجاز مهمتي.,"speaker_gender: m — masculine NPC, formal register. إليوت from glossary.",[]
+EL_M01_E10_1100_01,M01_E10_1100_01,quest_title,依頼を達成する,إنجاز المهمة,,[]
+EL_M02_E09_1000_M200_NPC0020_m,M02_E09_1000_M200_NPC0020_m,item_description,おそらく魔法の時代……もしくは\nもっと古い時代の魔法でつくられた武具と思われます。,يبدو أن هذه الأسلحة والدروع صُنعت في عصر السحر…\\nأو ربما في حقبة أقدم من ذلك.,"speaker_gender: m — masculine NPC, scholarly tone. عصر السحر = glossary era السحر. \\n preserved.","[""\\n""]"
+EL_M02_E09_1000_M240_NPC0030_m,M02_E09_1000_M240_NPC0030_m,item_description,実は、我が王家にも\n魔法の時代につくられた武具が伝わっていた。,في الواقع، كانت لدى أسرتنا المالكة أيضًا\\nأسلحة ودروع متوارَثة من عصر السحر.,"speaker_gender: m — masculine NPC, royal register. \\n preserved.","[""\\n""]"
+EL_M02_E09_1000_M270_NPC0020_m,M02_E09_1000_M270_NPC0020_m,item_description,おお！\n魔法の時代の武具なら対抗できそうですね！,رائع!\\nإذا كانت من أسلحة عصر السحر فلربما نستطيع المواجهة!,"speaker_gender: m — masculine NPC, enthusiastic. \\n preserved.","[""\\n""]"
+EL_M02_E11_1080_01,M02_E11_1080_01,quest_description,ネコ好きの旅人の依頼を達成する,إنجاز مهمة المسافر محب القطط,,[]
+EL_M03_E01_1000_M340_NPC0110_m,M03_E01_1000_M340_NPC0110_m,item_description,へえ、魔法の時代！\nウェイゼンの防具なんて、よく手に入ったな。,واو، عصر السحر!\\nلا أصدق أنك حصلتَ على درع من ويزن.,"speaker_gender: m — masculine NPC, casual surprise. ويزن coined for ウェイゼン. \\n preserved.","[""\\n""]"
+EL_M03_E01_1000_M370_NPC0110_m,M03_E01_1000_M370_NPC0110_m,item_description,すごい魔法の道具や機械を生み出してたって、\n伝わってる。,يُقال إنهم كانوا يصنعون أدواتٍ سحرية وآلاتٍ مذهلة.\\nهذا ما وصل إلينا على الأقل.,"speaker_gender: m — masculine NPC, casual storytelling. \\n preserved.","[""\\n""]"
+EL_M03_E05_2000,M03_E05_2000,item_description,良研究所所長に出会う。主人公は魔法生物破壊の代償としてドールRRRの動力を探す\nキーアイテム「コンパス」を所長から入手する,يلتقي البطل بمدير المعهد. يتعهد البطل بإيجاد مصدر طاقة الدمية RRR مقابل تدمير المخلوق السحري،\\nويحصل من المدير على العنصر الرئيسي «البوصلة».,Narrator/scene note. 「」→ «». \\n preserved. RRR preserved.,"[""\\n""]"
+EL_M03_E14_1000_M210_PCM000_m,M03_E14_1000_M210_PCM000_m,quest_description,行こう。\n俺たちは、無事に任務を果たしたんだ。,هيا نذهب.\\nلقد أنجزنا مهمتنا بسلام.,"speaker_gender: m — player character, masculine. \\n preserved.","[""\\n""]"
+EL_M05_E05_1000_M030_NPC1040_00_m,M05_E05_1000_M030_NPC1040_00_m,skill_description,長旅で疲れてるんじゃない？\n僕が回復の魔法を使ってあげるよ。,أتعبتَك الرحلة الطويلة، أليس كذلك؟\\nدعني أستخدم سحر الشفاء من أجلك.,"speaker_gender: m — young masculine NPC, warm/casual. \\n preserved.","[""\\n""]"
+EL_M05_SA1MGC_E03_5000_M020_NPC0210_f,M05_SA1MGC_E03_5000_M020_NPC0210_f,skill_description,い、今、回復の魔法を……！,أ، الآن، سحر الشفاء…!,"speaker_gender: f — feminine NPC, flustered/interrupted. Leading い stutter rendered as أ.",[]
+EL_M05_SA3MGC_E01_3000_M050_PCM000_m,M05_SA3MGC_E01_3000_M050_PCM000_m,skill_description,今は先生と、マオの回復力を信じよう。,الآن علينا أن نثق بقدرة المعلم وبقوة شفاء ماو.,"speaker_gender: m — player character, masculine. ماو from glossary.",[]
+EL_M06_E05_0100,M06_E05_0100,skill_description,バケネコに対してダメージを与え続けるエリオット\nバケネコはさらに魔力を強める,يواصل إليوت إلحاق الضرر بالقط المسحور\\nفيزيد القط المسحور من قوته السحرية.,Narrator caption. バケネコ coined: القط المسحور (supernatural shape-shifting cat). إليوت from glossary. \\n preserved.,"[""\\n""]"
+EL_M06_E13_4000,M06_E13_4000,skill_description,主人公、城に入ると姫と学者が出迎える。姫の回復を喜び合う,عند دخول البطل إلى القلعة، تستقبله الأميرة والباحث، ويهنئون بعضهم بتعافي الأميرة.,,[]
+EL_M06_E18_1400_M090_PCM000_m,M06_E18_1400_M090_PCM000_m,item_description,ここまで来れたのも、魔石の力があってこそだ。\n改めて、協力に感謝します。,ما كان لي أن أصل إلى هنا لولا قوة حجر السحر.\nأشكرك مجددًا على تعاونك.,,"[""\\n""]"
+EL_M06_E18_1400_Title,M06_E18_1400_Title,item_name,魔石屋の願い,أمنية بائع أحجار السحر,,[]
+EL_M06_E25_1000_M110_PCM000_m,M06_E25_1000_M110_PCM000_m,item_description,この前も、鞄の魔石が\n全部キャンディになっていて驚いたぞ。,في المرة السابقة أيضًا، تفاجأت عندما تحولت كل أحجار السحر في حقيبتي\nإلى حلوى.,,"[""\\n""]"
+EL_MAGICSTONE_BOMB_01_DESCRIPTION,MAGICSTONE_BOMB_01_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>の攻撃力が{Num:1}上昇""","""・يزداد الهجوم لـ <img id=""""RI_ICON_WPN_BOMB""""/> بمقدار {Num:1}""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_01_NAME,MAGICSTONE_BOMB_01_NAME,skill_name,攻撃力上昇,زيادة الهجوم,,[]
+EL_MAGICSTONE_BOMB_02_DESCRIPTION,MAGICSTONE_BOMB_02_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>による\n　クリティカル発生時のダメージが{Num:1}％上昇""","""・يزداد ضرر الضربة الحرجة لـ <img id=""""RI_ICON_WPN_BOMB""""/>\n　بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOMB_02_NAME,MAGICSTONE_BOMB_02_NAME,skill_description,クリティカルダメージ上昇,زيادة ضرر الحرجة,,[]
+EL_MAGICSTONE_BOMB_03_DESCRIPTION_2,MAGICSTONE_BOMB_03_DESCRIPTION_2,item_description,"""・自身の<img id=""""RI_ICON_WPN_BOMB""""/>からダメージを受けなくなる""","""・عدم تلقي أي ضرر من <img id=""""RI_ICON_WPN_BOMB""""/> الخاصة بك""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_03_DESCRIPTION,MAGICSTONE_BOMB_03_DESCRIPTION,item_description,"""・自身の<img id=""""RI_ICON_WPN_BOMB""""/>から受けるダメージが{Num:1}％減少""","""・تقليل الضرر المتلقى من <img id=""""RI_ICON_WPN_BOMB""""/> الخاصة بك بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_04_DESCRIPTION,MAGICSTONE_BOMB_04_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>の大きさと爆発範囲が{Num:1}％上昇\n・<img id=""""RI_ICON_WPN_BOMB""""/>の持ち上げ中の移動速度が{Num:2}％減少""","""・يزداد حجم ونطاق انفجار <img id=""""RI_ICON_WPN_BOMB""""/> بنسبة {Num:1}％\n・تقل سرعة الحركة أثناء حمل <img id=""""RI_ICON_WPN_BOMB""""/> بنسبة {Num:2}％""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_05_DESCRIPTION,MAGICSTONE_BOMB_05_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>の爆発時のダメージが{Num:1}％上昇\n・<img id=""""RI_ICON_WPN_BOMB""""/>の爆発までの時間が{Num:2}％延長""","""・يزداد ضرر انفجار <img id=""""RI_ICON_WPN_BOMB""""/> بنسبة {Num:1}％\n・يزداد الوقت المستغرق لانفجار <img id=""""RI_ICON_WPN_BOMB""""/> بنسبة {Num:2}％""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_06_DESCRIPTION_2,MAGICSTONE_BOMB_06_DESCRIPTION_2,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>の爆発後、その場に少しの間、溶岩が発生\n・溶岩にヒットした敵は炎上""","""・بعد انفجار <img id=""""RI_ICON_WPN_BOMB""""/>، تظهر حمم في مكانها لفترة وجيزة\n・يصاب الأعداء الذين تلمسهم الحمم بالاحتراق""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOMB_06_DESCRIPTION_3,MAGICSTONE_BOMB_06_DESCRIPTION_3,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>の爆発後、その場にしばらく溶岩が発生\n・溶岩にヒットした敵は炎上""","""・بعد انفجار <img id=""""RI_ICON_WPN_BOMB""""/>، تظهر حمم في مكانها لبعض الوقت\n・يصاب الأعداء الذين تلمسهم الحمم بالاحتراق""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOMB_06_DESCRIPTION,MAGICSTONE_BOMB_06_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>の爆発後、その場にわずかな間、溶岩が発生\n・溶岩にヒットした敵は炎上""","""・بعد انفجار <img id=""""RI_ICON_WPN_BOMB""""/>،تظهر حمم في مكانها لفترة وجيزة جدًا\n・يصاب الأعداء الذين تلمسهم الحمم بالاحتراق""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOMB_07_DESCRIPTION,MAGICSTONE_BOMB_07_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>を投げたとき、よく跳ねるようになる\n・投げた<img id=""""RI_ICON_WPN_BOMB""""/>にヒットすると追加ダメージ""","""・عند رمي <img id=""""RI_ICON_WPN_BOMB""""/>، تصبح كثيرة الارتداد\n・إلحاق ضرر إضافي عند الإصابة بـ <img id=""""RI_ICON_WPN_BOMB""""/> المرمية""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_08_DESCRIPTION,MAGICSTONE_BOMB_08_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>に触れた敵が凍結""","""・يتجمد الأعداء الذين يلمسون <img id=""""RI_ICON_WPN_BOMB""""/>""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_09_DESCRIPTION,MAGICSTONE_BOMB_09_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>で敵を撃破時、{Num:1}％で<img id=""""RI_ICON_WPN_BOMB""""/>をドロップ""","""・عند هزيمة عدو باستخدام <img id=""""RI_ICON_WPN_BOMB""""/>، هناك فرصة {Num:1}％ لإسقاط <img id=""""RI_ICON_WPN_BOMB""""/>""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_10_DESCRIPTION,MAGICSTONE_BOMB_10_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>の設置上限数が{Num:1}個増加""","""・يزداد الحد الأقصى لزرع <img id=""""RI_ICON_WPN_BOMB""""/> بمقدار {Num:1}""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_11_DESCRIPTION,MAGICSTONE_BOMB_11_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>のクリティカル発生率が{Num:1}％上昇""","""・يزداد معدل الضربات الحرجة لـ <img id=""""RI_ICON_WPN_BOMB""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_11_NAME,MAGICSTONE_BOMB_11_NAME,skill_description,クリティカル発生上昇,زيادة معدل الضربات الحرجة,,[]
+EL_MAGICSTONE_BOMB_12_DESCRIPTION,MAGICSTONE_BOMB_12_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>の持ち上げ中の移動速度が{Num:1}％上昇""","""・تزداد سرعة الحركة أثناء حمل <img id=""""RI_ICON_WPN_BOMB""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_13_DESCRIPTION,MAGICSTONE_BOMB_13_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>の持ち上げ時、爆発時間をリセット\n・<img id=""""RI_ICON_WPN_BOMB""""/>を持ち上げている間、爆発しなくなる""","""・يُعاد تعيين وقت الانفجار عند حمل <img id=""""RI_ICON_WPN_BOMB""""/>\n・لن تنفجر <img id=""""RI_ICON_WPN_BOMB""""/> طوال فترة حملها""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>""]"
+EL_MAGICSTONE_BOMB_14_DESCRIPTION,MAGICSTONE_BOMB_14_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>が爆発するまでの間、\n　{Num:1}秒ごとに火花がランダムに発生""","""・حتى تنفجر <img id=""""RI_ICON_WPN_BOMB""""/>،\n　تتولد شرارات عشوائية كل {Num:1} ثانية""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOMB_15_DESCRIPTION,MAGICSTONE_BOMB_15_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOMB""""/>が設置されている間、\n　他の武器のチャージ時間が{Num:1}％短縮""","""・طالما أن <img id=""""RI_ICON_WPN_BOMB""""/> مزروعة،\n　يقل وقت شحن الأسلحة الأخرى بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOMB\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOOMERANG_01_DESCRIPTION,MAGICSTONE_BOOMERANG_01_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>の攻撃力が{Num:1}上昇""","""・يزداد الهجوم لـ <img id=""""RI_ICON_WPN_BOOMERANG""""/> بمقدار {Num:1}""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_01_NAME,MAGICSTONE_BOOMERANG_01_NAME,skill_name,攻撃力上昇,زيادة الهجوم,,[]
+EL_MAGICSTONE_BOOMERANG_02_NAME,MAGICSTONE_BOOMERANG_02_NAME,skill_description,クリティカルダメージ上昇,زيادة ضرر الحرجة,,[]
+EL_MAGICSTONE_BOOMERANG_03_DESCRIPTION,MAGICSTONE_BOOMERANG_03_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>のチャージ時間が{Num:1}％短縮""","""・يقل وقت شحن <img id=""""RI_ICON_WPN_BOOMERANG""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_03_NAME,MAGICSTONE_BOOMERANG_03_NAME,skill_name,チャージ時間短縮,تقليص وقت الشحن,,[]
+EL_MAGICSTONE_BOOMERANG_04_DESCRIPTION,MAGICSTONE_BOOMERANG_04_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>の攻撃ヒット時、{Num:1}％で敵が気絶""","""・عند إصابة الأعداء بهجمات <img id=""""RI_ICON_WPN_BOOMERANG""""/>،هناك فرصة {Num:1}％ لإصابتهم بالدوار""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_05_DESCRIPTION,MAGICSTONE_BOOMERANG_05_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>の飛行中、\n　ヒットするたびにダメージが{Num:1}％ずつ増加\n・ダメージは最大{Num:2}％まで上昇""","""・أثناء طيران <img id=""""RI_ICON_WPN_BOOMERANG""""/>،\n　يزداد الضرر بنسبة {Num:1}％ مع كل إصابة\n・يزداد الضرر بنسبة تصل إلى {Num:2}％ كحد أقصى""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>"", ""\\n"", ""\\n""]"
+EL_MAGICSTONE_BOOMERANG_06_DESCRIPTION,MAGICSTONE_BOOMERANG_06_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>の大きさが{Num:1}％上昇\n・<img id=""""RI_ICON_WPN_BOOMERANG""""/>の飛行速度が大幅に減少""","""・يزداد حجم <img id=""""RI_ICON_WPN_BOOMERANG""""/> بنسبة {Num:1}％\n・تقل سرعة طيران <img id=""""RI_ICON_WPN_BOOMERANG""""/> بشكل كبير""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_08_DESCRIPTION_2,MAGICSTONE_BOOMERANG_08_DESCRIPTION_2,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>の必殺技発動時、\n　<img id=""""RI_ICON_WPN_BOOMERANG""""/>が自身の周囲を少しの間、旋回するようになる""","""・عند تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_BOOMERANG""""/>،\n　تدور <img id=""""RI_ICON_WPN_BOOMERANG""""/> حولك لفترة وجيزة""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_08_DESCRIPTION_3,MAGICSTONE_BOOMERANG_08_DESCRIPTION_3,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>の必殺技発動時、\n　<img id=""""RI_ICON_WPN_BOOMERANG""""/>が自身の周囲をしばらく旋回するようになる""","""・عند تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_BOOMERANG""""/>،\n　تدور <img id=""""RI_ICON_WPN_BOOMERANG""""/> حولك لبعض الوقت""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_08_DESCRIPTION,MAGICSTONE_BOOMERANG_08_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>の必殺技発動時、\n　<img id=""""RI_ICON_WPN_BOOMERANG""""/>が自身の周囲をわずかな間、旋回するようになる""","""・عند تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_BOOMERANG""""/>،تدور <img id=""""RI_ICON_WPN_BOOMERANG""""/> حولك لفترة وجيزة جدًا""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_09_DESCRIPTION,MAGICSTONE_BOOMERANG_09_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>のダメージが{Num:1}％上昇\n・戻ってきた<img id=""""RI_ICON_WPN_BOOMERANG""""/>が自身にヒットした場合、\n　{Num:2}のダメージを受ける""","""・يزداد ضرر <img id=""""RI_ICON_WPN_BOOMERANG""""/> بنسبة {Num:1}％\n・إذا أصابتك <img id=""""RI_ICON_WPN_BOOMERANG""""/> العائدة،\n　تتلقى ضررًا بقيمة {Num:2}""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOOMERANG_10_DESCRIPTION,MAGICSTONE_BOOMERANG_10_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>を追加で{Num:1}個投げられる\n・<img id=""""RI_ICON_WPN_BOOMERANG""""/>のダメージが{Num:2}％減少""","""・يمكن رمي {Num:1} إضافية من <img id=""""RI_ICON_WPN_BOOMERANG""""/>\n・يقل ضرر <img id=""""RI_ICON_WPN_BOOMERANG""""/> بنسبة {Num:2}％""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_11_DESCRIPTION,MAGICSTONE_BOOMERANG_11_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>のクリティカル発生率が{Num:1}％上昇""","""・يزداد معدل الضربات الحرجة لـ <img id=""""RI_ICON_WPN_BOOMERANG""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_11_NAME,MAGICSTONE_BOOMERANG_11_NAME,skill_description,クリティカル発生上昇,زيادة معدل الضربات الحرجة,,[]
+EL_MAGICSTONE_BOOMERANG_12_DESCRIPTION,MAGICSTONE_BOOMERANG_12_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>の飛行時間が長くなる""","""・يزداد وقت طيران <img id=""""RI_ICON_WPN_BOOMERANG""""/>""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_14_DESCRIPTION,MAGICSTONE_BOOMERANG_14_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOOMERANG""""/>が敵の弾を{Num:1}回まで打ち消す""","""・تصد <img id=""""RI_ICON_WPN_BOOMERANG""""/> مقذوفات الأعداء حتى {Num:1} من المرات""",,"[""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>""]"
+EL_MAGICSTONE_BOOMERANG_15_DESCRIPTION,MAGICSTONE_BOOMERANG_15_DESCRIPTION,item_description,"""・状態異常の敵に対し、\n　<img id=""""RI_ICON_WPN_BOOMERANG""""/>がヒットすると近くの敵に電撃が発生\n・電撃にヒットした敵は{Num:1}％で気絶""","""・عند إصابة عدو يعاني من حالة سلبية بـ <img id=""""RI_ICON_WPN_BOOMERANG""""/>،\n　تتولد صعقة كهربائية للأعداء القريبين\n・هناك فرصة {Num:1}％ لإصابة الأعداء المصعوقين بالدوار""",,"[""\\n"", ""<img id=\""\""RI_ICON_WPN_BOOMERANG\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOW_01_DESCRIPTION,MAGICSTONE_BOW_01_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>の攻撃力が{Num:1}上昇""","""・يزداد الهجوم لـ <img id=""""RI_ICON_WPN_BOW""""/> بمقدار {Num:1}""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>""]"
+EL_MAGICSTONE_BOW_01_NAME,MAGICSTONE_BOW_01_NAME,skill_name,攻撃力上昇,زيادة الهجوم,,[]
+EL_MAGICSTONE_BOW_02_DESCRIPTION,MAGICSTONE_BOW_02_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>による\n　クリティカル発生時のダメージが{Num:1}％上昇""","""・يزداد ضرر الضربة الحرجة لـ <img id=""""RI_ICON_WPN_BOW""""/>\n　بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOW_02_NAME,MAGICSTONE_BOW_02_NAME,skill_description,クリティカルダメージ上昇,زيادة ضرر الحرجة,,[]
+EL_MAGICSTONE_BOW_03_DESCRIPTION,MAGICSTONE_BOW_03_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>のチャージ時間が{Num:1}％短縮""","""・يقل وقت شحن <img id=""""RI_ICON_WPN_BOW""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>""]"
+EL_MAGICSTONE_BOW_03_NAME,MAGICSTONE_BOW_03_NAME,skill_name,チャージ時間短縮,تقليص وقت الشحن,,[]
+EL_MAGICSTONE_BOW_04_DESCRIPTION_2,MAGICSTONE_BOW_04_DESCRIPTION_2,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>の攻撃ヒット時、必ず敵が炎上""","""・يصاب الأعداء بالاحتراق دائمًا عند إصابتهم بهجمات <img id=""""RI_ICON_WPN_BOW""""/>""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>""]"
+EL_MAGICSTONE_BOW_04_DESCRIPTION,MAGICSTONE_BOW_04_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>の攻撃ヒット時、{Num:1}％で敵が炎上""","""・عند إصابة الأعداء بهجمات <img id=""""RI_ICON_WPN_BOW""""/>، هناك فرصة {Num:1}％ لإصابتهم بالاحتراق""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>""]"
+EL_MAGICSTONE_BOW_05_DESCRIPTION,MAGICSTONE_BOW_05_DESCRIPTION,item_description,"""・矢が敵を貫通する\n・<img id=""""RI_ICON_WPN_BOW""""/>のダメージが{Num:1}％減少""","""・تخترق السهام الأعداء\n・يقل ضرر <img id=""""RI_ICON_WPN_BOW""""/> بنسبة {Num:1}％""",,"[""\\n"", ""<img id=\""\""RI_ICON_WPN_BOW\""\""/>""]"
+EL_MAGICSTONE_BOW_06_DESCRIPTION,MAGICSTONE_BOW_06_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>の攻撃時、{Num:1}％で矢を消費しない""","""・عند الهجوم بـ <img id=""""RI_ICON_WPN_BOW""""/>، هناك فرصة {Num:1}％ لعدم استهلاك السهام""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>""]"
+EL_MAGICSTONE_BOW_07_DESCRIPTION,MAGICSTONE_BOW_07_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>の必殺技発動時、魔法の矢が近くの敵を追尾""","""・عند تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_BOW""""/>، تتبع سهام سحرية الأعداء القريبين""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>""]"
+EL_MAGICSTONE_BOW_09_DESCRIPTION,MAGICSTONE_BOW_09_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>の攻撃ヒット時、周囲の敵に{Num:1}回追撃が発生\n・追撃のたびにダメージが大幅に減少""","""・عند إصابة الأعداء بهجمات <img id=""""RI_ICON_WPN_BOW""""/>، تشن هجمات متابعة {Num:1} مرات على الأعداء المحيطين\n・يقل الضرر بشكل كبير مع كل هجوم متابعة""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOW_10_DESCRIPTION,MAGICSTONE_BOW_10_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>の攻撃時、{Num:1}％のダメージの追加攻撃が発生\n・矢の消費量が１本増加""","""・عند الهجوم بـ <img id=""""RI_ICON_WPN_BOW""""/>، يُشن هجوم إضافي بضرر قيمته {Num:1}％\n・يستهلك سهم إضافي واحد""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOW_11_DESCRIPTION,MAGICSTONE_BOW_11_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>のクリティカル発生率が{Num:1}％上昇""","""・يزداد معدل الضربات الحرجة لـ <img id=""""RI_ICON_WPN_BOW""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>""]"
+EL_MAGICSTONE_BOW_11_NAME,MAGICSTONE_BOW_11_NAME,skill_description,クリティカル発生上昇,زيادة معدل الضربات الحرجة,,[]
+EL_MAGICSTONE_BOW_12_DESCRIPTION,MAGICSTONE_BOW_12_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_BOW""""/>のチャージが溜まるたび、\n　自身の近くの敵に向かって矢が放たれる""","""・كلما شُحن <img id=""""RI_ICON_WPN_BOW""""/> بالكامل،\n　يُطلق سهم تلقائيًا نحو الأعداء القريبين منك""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_BOW_12_NAME,MAGICSTONE_BOW_12_NAME,skill_description,チャージングショット,الطلقة المشحونة,,[]
+EL_MAGICSTONE_BOW_14_DESCRIPTION,MAGICSTONE_BOW_14_DESCRIPTION,item_description,"""・矢の所持数が０本の時、<img id=""""RI_ICON_WPN_BOW""""/>の通常攻撃が\n　光線に変化し、ダメージが{Num:1}％上昇\n・矢の代わりに<img id=""""RI_ICON_LIFE_FULL""""/>を{Num:2}消費""","""・عندما ينفد مخزون السهام، يتحول الهجوم العادي لـ <img id=""""RI_ICON_WPN_BOW""""/>\n　إلى شعاع ضوئي ويزداد الضرر بنسبة {Num:1}％\n・يُستهلك {Num:2} من <img id=""""RI_ICON_LIFE_FULL""""/> بدلاً من السهام""",,"[""<img id=\""\""RI_ICON_WPN_BOW\""\""/>"", ""\\n"", ""\\n"", ""<img id=\""\""RI_ICON_LIFE_FULL\""\""/>""]"
+EL_MAGICSTONE_BOW_15_DESCRIPTION,MAGICSTONE_BOW_15_DESCRIPTION,item_description,"""・炎上中の敵に対し、\n　<img id=""""RI_ICON_WPN_BOW""""/>の通常攻撃がヒットすると爆発が発生""","""・عند إصابة عدو محترق بهجوم عادي لـ <img id=""""RI_ICON_WPN_BOW""""/>،\n　يحدث انفجار""",,"[""\\n"", ""<img id=\""\""RI_ICON_WPN_BOW\""\""/>""]"
+EL_MAGICSTONE_CHAIN_01_DESCRIPTION,MAGICSTONE_CHAIN_01_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>の攻撃力が{Num:1}上昇""","""・يزداد الهجوم لـ <img id=""""RI_ICON_WPN_CHAIN""""/> بمقدار {Num:1}""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>""]"
+EL_MAGICSTONE_CHAIN_01_NAME,MAGICSTONE_CHAIN_01_NAME,skill_name,攻撃力上昇,زيادة الهجوم,,[]
+EL_MAGICSTONE_CHAIN_02_DESCRIPTION,MAGICSTONE_CHAIN_02_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>による\n　クリティカル発生時のダメージが{Num:1}％上昇""","""・يزداد ضرر الضربة الحرجة لـ <img id=""""RI_ICON_WPN_CHAIN""""/>\n　بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_CHAIN_02_NAME,MAGICSTONE_CHAIN_02_NAME,skill_description,クリティカルダメージ上昇,زيادة ضرر الحرجة,,[]
+EL_MAGICSTONE_CHAIN_03_DESCRIPTION,MAGICSTONE_CHAIN_03_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>のチャージ時間が{Num:1}％短縮""","""・يقل وقت شحن <img id=""""RI_ICON_WPN_CHAIN""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>""]"
+EL_MAGICSTONE_CHAIN_03_NAME,MAGICSTONE_CHAIN_03_NAME,skill_name,チャージ時間短縮,تقليص وقت الشحن,,[]
+EL_MAGICSTONE_CHAIN_04_DESCRIPTION,MAGICSTONE_CHAIN_04_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>の必殺技ヒット時、{Num:1}％で敵が気絶""","""・عند إصابة العدو بالمهارة القاضية لـ <img id=""""RI_ICON_WPN_CHAIN""""/>، هناك فرصة {Num:1}％ لإصابته بالدوار""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>""]"
+EL_MAGICSTONE_CHAIN_05_DESCRIPTION,MAGICSTONE_CHAIN_05_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>のチャージ中の移動速度が{Num:1}％上昇""","""・تزداد سرعة الحركة أثناء شحن <img id=""""RI_ICON_WPN_CHAIN""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>""]"
+EL_MAGICSTONE_CHAIN_06_DESCRIPTION,MAGICSTONE_CHAIN_06_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>の通常攻撃中、\n　ヒットするたびにダメージが{Num:1}％ずつ増加\n・ダメージは最大{Num:2}％まで上昇""","""・أثناء الهجوم العادي بـ <img id=""""RI_ICON_WPN_CHAIN""""/>،\n　يزداد الضرر بنسبة {Num:1}％ مع كل إصابة\n・يزداد الضرر بنسبة تصل إلى {Num:2}％ كحد أقصى""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>"", ""\\n"", ""\\n""]"
+EL_MAGICSTONE_CHAIN_07_DESCRIPTION,MAGICSTONE_CHAIN_07_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>の必殺技のダメージが{Num:1}％上昇\n・<img id=""""RI_ICON_WPN_CHAIN""""/>の必殺技が敵にヒットしなかった場合、\n　{Num:2}のダメージを受ける""","""・يزداد ضرر المهارة القاضية لـ <img id=""""RI_ICON_WPN_CHAIN""""/> بنسبة {Num:1}％\n・إذا لم تصب المهارة القاضية لـ <img id=""""RI_ICON_WPN_CHAIN""""/> أي عدو،\n　تتلقى ضررًا بقيمة {Num:2}""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_CHAIN_09_DESCRIPTION,MAGICSTONE_CHAIN_09_DESCRIPTION,item_description,"""・状態異常の敵に対し、<img id=""""RI_ICON_WPN_CHAIN""""/>のダメージが{Num:1}％上昇""","""・يزداد ضرر <img id=""""RI_ICON_WPN_CHAIN""""/> بنسبة {Num:1}％ ضد الأعداء الذين يعانون من حالة سلبية""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>""]"
+EL_MAGICSTONE_CHAIN_10_DESCRIPTION,MAGICSTONE_CHAIN_10_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>の通常攻撃時、\n　自身の背後の敵に必ずクリティカルが発生""","""・عند الهجوم العادي بـ <img id=""""RI_ICON_WPN_CHAIN""""/>،\n　تحدث ضربة حرجة حتمًا للأعداء المتواجدين خلفك""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_CHAIN_11_DESCRIPTION,MAGICSTONE_CHAIN_11_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>のクリティカル発生率が{Num:1}％上昇""","""・يزداد معدل الضربات الحرجة لـ <img id=""""RI_ICON_WPN_CHAIN""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>""]"
+EL_MAGICSTONE_CHAIN_11_NAME,MAGICSTONE_CHAIN_11_NAME,skill_description,クリティカル発生上昇,زيادة معدل الضربات الحرجة,,[]
+EL_MAGICSTONE_CHAIN_12_DESCRIPTION,MAGICSTONE_CHAIN_12_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>の通常攻撃が２回ヒットするようになる\n・<img id=""""RI_ICON_WPN_CHAIN""""/>の通常攻撃のダメージが{Num:1}％減少""","""・يصيب الهجوم العادي لـ <img id=""""RI_ICON_WPN_CHAIN""""/> مرتين\n・يقل ضرر الهجوم العادي لـ <img id=""""RI_ICON_WPN_CHAIN""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>""]"
+EL_MAGICSTONE_CHAIN_13_DESCRIPTION,MAGICSTONE_CHAIN_13_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>の通常攻撃ヒット時、{Num:1}％で敵が凍結""","""・عند إصابة الأعداء بالهجوم العادي لـ <img id=""""RI_ICON_WPN_CHAIN""""/>، هناك فرصة {Num:1}％ لإصابتهم بالتجميد""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>""]"
+EL_MAGICSTONE_CHAIN_14_DESCRIPTION,MAGICSTONE_CHAIN_14_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_CHAIN""""/>の必殺技が敵を引き寄せず貫通する\n・<img id=""""RI_ICON_WPN_CHAIN""""/>の必殺技のダメージが{Num:1}％減少""","""・تخترق المهارة القاضية لـ <img id=""""RI_ICON_WPN_CHAIN""""/> الأعداء دون سحبهم إليها\n・يقل ضرر المهارة القاضية لـ <img id=""""RI_ICON_WPN_CHAIN""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>""]"
+EL_MAGICSTONE_CHAIN_15_DESCRIPTION,MAGICSTONE_CHAIN_15_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_LIFE_FULL""""/>が{Num:1}以下の時、\n　<img id=""""RI_ICON_WPN_CHAIN""""/>の必殺技ヒット時に<img id=""""RI_ICON_LIFE_FULL""""/>が{Num:2}回復""","""・عندما تكون <img id=""""RI_ICON_LIFE_FULL""""/> بقيمة {Num:1} أو أقل،\n　تسترد {Num:2} من <img id=""""RI_ICON_LIFE_FULL""""/> عند إصابة الأعداء بالمهارة القاضية لـ <img id=""""RI_ICON_WPN_CHAIN""""/>""",,"[""<img id=\""\""RI_ICON_LIFE_FULL\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_CHAIN\""\""/>"", ""<img id=\""\""RI_ICON_LIFE_FULL\""\""/>""]"
+EL_MAGICSTONE_HAMMER_01_DESCRIPTION,MAGICSTONE_HAMMER_01_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の攻撃力が{Num:1}上昇""","""・يزداد الهجوم لـ <img id=""""RI_ICON_WPN_HAMMER""""/> بمقدار {Num:1}""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_01_NAME,MAGICSTONE_HAMMER_01_NAME,skill_name,攻撃力上昇,زيادة الهجوم,,[]
+EL_MAGICSTONE_HAMMER_02_DESCRIPTION,MAGICSTONE_HAMMER_02_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>による\n　クリティカル発生時のダメージが{Num:1}％上昇""","""・يزداد ضرر الضربة الحرجة لـ <img id=""""RI_ICON_WPN_HAMMER""""/>\n　بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_HAMMER_02_NAME,MAGICSTONE_HAMMER_02_NAME,skill_description,クリティカルダメージ上昇,زيادة ضرر الحرجة,,[]
+EL_MAGICSTONE_HAMMER_03_DESCRIPTION,MAGICSTONE_HAMMER_03_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>のチャージ時間が{Num:1}％短縮""","""・يقل وقت شحن <img id=""""RI_ICON_WPN_HAMMER""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_03_NAME,MAGICSTONE_HAMMER_03_NAME,skill_name,チャージ時間短縮,تقليص وقت الشحن,,[]
+EL_MAGICSTONE_HAMMER_04_DESCRIPTION,MAGICSTONE_HAMMER_04_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の通常攻撃ヒット時、{Num:1}％で敵が気絶""","""・عند إصابة الأعداء بالهجوم العادي لـ <img id=""""RI_ICON_WPN_HAMMER""""/>، هناك فرصة {Num:1}％ لإصابتهم بالدوار""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_05_DESCRIPTION,MAGICSTONE_HAMMER_05_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の攻撃ヒット時、ノックバック距離が{Num:1}％上昇""","""・عند الإصابة بهجمات <img id=""""RI_ICON_WPN_HAMMER""""/>،تزداد مسافة الدفع للخلف بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_06_DESCRIPTION_2,MAGICSTONE_HAMMER_06_DESCRIPTION_2,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の攻撃で気絶させた場合、気絶時間が少し延長""","""・عند إصابة العدو بالدوار نتيجة هجوم <img id=""""RI_ICON_WPN_HAMMER""""/>، يزداد وقت الدوار قليلاً""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_06_DESCRIPTION_3,MAGICSTONE_HAMMER_06_DESCRIPTION_3,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の攻撃で気絶させた場合、気絶時間がかなり延長""","""・عند إصابة العدو بالدوار نتيجة هجوم <img id=""""RI_ICON_WPN_HAMMER""""/>، يزداد وقت الدوار كثيرًا""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_06_DESCRIPTION,MAGICSTONE_HAMMER_06_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の攻撃で気絶させた場合、気絶時間がわずかに延長""","""・عند إصابة العدو بالدوار نتيجة هجوم <img id=""""RI_ICON_WPN_HAMMER""""/>، يزداد وقت الدوار قليلاً جدًا""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_08_DESCRIPTION,MAGICSTONE_HAMMER_08_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の攻撃で吹き飛ばした敵が\n　他の敵や壁にぶつかると追加ダメージ""","""・عند اصطدام الأعداء المدفوعين بهجمات <img id=""""RI_ICON_WPN_HAMMER""""/>\n　بأعداء آخرين أو الجدران، يتلقون ضررًا إضافيًا""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_HAMMER_09_DESCRIPTION,MAGICSTONE_HAMMER_09_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の必殺技発動後、その場に追加の衝撃波が{Num:1}回発生""","""・بعد تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_HAMMER""""/>، تتولد موجة صادمة إضافية {Num:1} من المرات في المكان نفسه""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_11_DESCRIPTION,MAGICSTONE_HAMMER_11_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>のクリティカル発生率が{Num:1}％上昇""","""・يزداد معدل الضربات الحرجة لـ <img id=""""RI_ICON_WPN_HAMMER""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_11_NAME,MAGICSTONE_HAMMER_11_NAME,skill_description,クリティカル発生上昇,زيادة معدل الضربات الحرجة,,[]
+EL_MAGICSTONE_HAMMER_12_DESCRIPTION,MAGICSTONE_HAMMER_12_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の必殺技の攻撃範囲が{Num:1}％上昇""","""・يزداد نطاق هجوم المهارة القاضية لـ <img id=""""RI_ICON_WPN_HAMMER""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_13_DESCRIPTION,MAGICSTONE_HAMMER_13_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>で敵を撃破時、爆発が発生""","""・يحدث انفجار عند هزيمة الأعداء باستخدام <img id=""""RI_ICON_WPN_HAMMER""""/>""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>""]"
+EL_MAGICSTONE_HAMMER_14_DESCRIPTION,MAGICSTONE_HAMMER_14_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_HAMMER""""/>の必殺技発動後、前方に雷が{Num:1}個発生\n・雷にヒットした敵は{Num:2}％で気絶""","""・بعد تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_HAMMER""""/>، تتولد {Num:1} صواعق في الأمام\n・هناك فرصة {Num:2}％ لإصابة الأعداء المصعوقين بالدوار""",,"[""<img id=\""\""RI_ICON_WPN_HAMMER\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_PIECE_FLAVOR,MAGICSTONE_PIECE_FLAVOR,item_description,魔力が凝縮された結晶の欠片。\n集めて生成すると、魔石にすることができる。,شظية بلورة تحتوي على قوة سحرية مكثفة.\nعند جمعها وصياغتها، يمكن تحويلها إلى حجر سحر.,,"[""\\n""]"
+EL_MAGICSTONE_PIECE_NAME,MAGICSTONE_PIECE_NAME,item_name,魔石の欠片,شظية حجر السحر,,[]
+EL_MAGICSTONE_SPEAR_01_DESCRIPTION,MAGICSTONE_SPEAR_01_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>の攻撃力が{Num:1}上昇""","""・يزداد الهجوم لـ <img id=""""RI_ICON_WPN_SPEAR""""/> بمقدار {Num:1}""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>""]"
+EL_MAGICSTONE_SPEAR_01_NAME,MAGICSTONE_SPEAR_01_NAME,skill_name,攻撃力上昇,زيادة الهجوم,,[]
+EL_MAGICSTONE_SPEAR_02_DESCRIPTION,MAGICSTONE_SPEAR_02_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>による\n　クリティカル発生時のダメージが{Num:1}％上昇""","""・يزداد ضرر الضربة الحرجة لـ <img id=""""RI_ICON_WPN_SPEAR""""/>\n　بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_SPEAR_02_NAME,MAGICSTONE_SPEAR_02_NAME,skill_description,クリティカルダメージ上昇,زيادة ضرر الحرجة,,[]
+EL_MAGICSTONE_SPEAR_03_DESCRIPTION,MAGICSTONE_SPEAR_03_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>のチャージ時間が{Num:1}％短縮""","""・يقل وقت شحن <img id=""""RI_ICON_WPN_SPEAR""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>""]"
+EL_MAGICSTONE_SPEAR_03_NAME,MAGICSTONE_SPEAR_03_NAME,skill_name,チャージ時間短縮,تقليص وقت الشحن,,[]
+EL_MAGICSTONE_SPEAR_04_DESCRIPTION_2,MAGICSTONE_SPEAR_04_DESCRIPTION_2,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>の必殺技発動時、\n　通過した場所に少しの間、火柱が発生\n・火柱にヒットした敵は炎上""","""・عند تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_SPEAR""""/>،\n　تظهر أعمدة لهب لفترة وجيزة في المكان الذي مررت به\n・يصاب الأعداء الذين تلمسهم أعمدة اللهب بالاحتراق""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>"", ""\\n"", ""\\n""]"
+EL_MAGICSTONE_SPEAR_04_DESCRIPTION_3,MAGICSTONE_SPEAR_04_DESCRIPTION_3,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>の必殺技発動時、\n　通過した場所にしばらく火柱が発生\n・火柱にヒットした敵は炎上""","""・عند تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_SPEAR""""/>،\n　تظهر أعمدة لهب لبعض الوقت في المكان الذي مررت به\n・يصاب الأعداء الذين تلمسهم أعمدة اللهب بالاحتراق""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>"", ""\\n"", ""\\n""]"
+EL_MAGICSTONE_SPEAR_04_DESCRIPTION,MAGICSTONE_SPEAR_04_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>の必殺技発動時、\n　通過した場所にわずかな間、火柱が発生\n・火柱にヒットした敵は炎上""","""・عند تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_SPEAR""""/>،\n　تظهر أعمدة لهب لفترة وجيزة جدًا في المكان الذي مررت به\n・يصاب الأعداء الذين تلمسهم أعمدة اللهب بالاحتراق""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>"", ""\\n"", ""\\n""]"
+EL_MAGICSTONE_SPEAR_05_DESCRIPTION,MAGICSTONE_SPEAR_05_DESCRIPTION,item_description,"""・他の武器を使用後のわずかな間、\n　<img id=""""RI_ICON_WPN_SPEAR""""/>の通常攻撃のリーチが{Num:1}％上昇""","""・لفترة وجيزة جدًا بعد استخدام سلاح آخر،\n　يزداد مدى الهجوم العادي لـ <img id=""""RI_ICON_WPN_SPEAR""""/> بنسبة {Num:1}％""",,"[""\\n"", ""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>""]"
+EL_MAGICSTONE_SPEAR_06_DESCRIPTION,MAGICSTONE_SPEAR_06_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>の必殺技発動中、ダメージを受けない\n・<img id=""""RI_ICON_WPN_SPEAR""""/>の必殺技の移動距離が{Num:1}％上昇""","""・لا تتلقى ضررًا أثناء تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_SPEAR""""/>\n・تزداد مسافة حركة المهارة القاضية لـ <img id=""""RI_ICON_WPN_SPEAR""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>""]"
+EL_MAGICSTONE_SPEAR_10_DESCRIPTION,MAGICSTONE_SPEAR_10_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>の通常攻撃時、３方向への攻撃が発生\n・<img id=""""RI_ICON_WPN_SPEAR""""/>の通常攻撃のダメージが{Num:1}％減少""","""・عند الهجوم العادي بـ <img id=""""RI_ICON_WPN_SPEAR""""/>،يُشن الهجوم في 3 اتجاهات\n・يقل ضرر الهجوم العادي لـ <img id=""""RI_ICON_WPN_SPEAR""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>""]"
+EL_MAGICSTONE_SPEAR_11_DESCRIPTION,MAGICSTONE_SPEAR_11_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>のクリティカル発生率が{Num:1}％上昇""","""・يزداد معدل الضربات الحرجة لـ <img id=""""RI_ICON_WPN_SPEAR""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>""]"
+EL_MAGICSTONE_SPEAR_11_NAME,MAGICSTONE_SPEAR_11_NAME,skill_description,クリティカル発生上昇,زيادة معدل الضربات الحرجة,,[]
+EL_MAGICSTONE_SPEAR_12_DESCRIPTION,MAGICSTONE_SPEAR_12_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>の通常攻撃時、前方へ素早く移動しながら攻撃""","""・عند الهجوم العادي بـ <img id=""""RI_ICON_WPN_SPEAR""""/>، تهاجم أثناء التحرك للأمام بسرعة""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>""]"
+EL_MAGICSTONE_SPEAR_14_DESCRIPTION,MAGICSTONE_SPEAR_14_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SPEAR""""/>を使用後のわずかな間、\n　他の武器のダメージが{Num:1}％上昇""","""・لفترة وجيزة جدًا بعد استخدام <img id=""""RI_ICON_WPN_SPEAR""""/>،\n　يزداد ضرر الأسلحة الأخرى بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_SPEAR_15_DESCRIPTION,MAGICSTONE_SPEAR_15_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_LIFE_FULL""""/>が{Num:1}％以上の時、\n　<img id=""""RI_ICON_WPN_SPEAR""""/>の通常攻撃がヒットした敵に追加攻撃が発生""","""・عندما تكون <img id=""""RI_ICON_LIFE_FULL""""/> بنسبة {Num:1}％ أو أكثر،\n　يُشن هجوم إضافي على العدو الذي يصيبه الهجوم العادي لـ <img id=""""RI_ICON_WPN_SPEAR""""/>""",,"[""<img id=\""\""RI_ICON_LIFE_FULL\""\""/>"", ""\\n"", ""<img id=\""\""RI_ICON_WPN_SPEAR\""\""/>""]"
+EL_MAGICSTONE_SWORD_01_DESCRIPTION,MAGICSTONE_SWORD_01_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>の攻撃力が{Num:1}上昇""","""・يزداد الهجوم لـ <img id=""""RI_ICON_WPN_SWORD""""/> بمقدار {Num:1}""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>""]"
+EL_MAGICSTONE_SWORD_01_NAME,MAGICSTONE_SWORD_01_NAME,skill_name,攻撃力上昇,زيادة الهجوم,,[]
+EL_MAGICSTONE_SWORD_02_DESCRIPTION,MAGICSTONE_SWORD_02_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>による\n　クリティカル発生時のダメージが{Num:1}％上昇""","""・يزداد ضرر الضربة الحرجة لـ <img id=""""RI_ICON_WPN_SWORD""""/>\n　بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_SWORD_02_NAME,MAGICSTONE_SWORD_02_NAME,skill_description,クリティカルダメージ上昇,زيادة ضرر الحرجة,,[]
+EL_MAGICSTONE_SWORD_03_DESCRIPTION,MAGICSTONE_SWORD_03_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>のチャージ時間が{Num:1}％短縮""","""・يقل وقت شحن <img id=""""RI_ICON_WPN_SWORD""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>""]"
+EL_MAGICSTONE_SWORD_03_NAME,MAGICSTONE_SWORD_03_NAME,skill_name,チャージ時間短縮,تقليص وقت الشحن,,[]
+EL_MAGICSTONE_SWORD_05_DESCRIPTION,MAGICSTONE_SWORD_05_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>の攻撃時に発生する\n　飛ぶ斬撃の大きさが{Num:1}％上昇""","""・يزداد حجم الضربات القاطعة الطائرة المتولدة عند الهجوم بـ <img id=""""RI_ICON_WPN_SWORD""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_SWORD_09_DESCRIPTION,MAGICSTONE_SWORD_09_DESCRIPTION,item_description,"""・ガード成功後の<img id=""""RI_ICON_WPN_SWORD""""/>の通常攻撃時、\n　飛ぶ斬撃が{Num:1}回まで発生""","""・عند الهجوم العادي بـ <img id=""""RI_ICON_WPN_SWORD""""/> بعد حراسة ناجحة،\n　تتولد ضربات قاطعة طائرة حتى {Num:1} من المرات""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_SWORD_10_DESCRIPTION,MAGICSTONE_SWORD_10_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>の必殺技発動時、飛ぶ斬撃が追加で発生""","""・عند تفعيل المهارة القاضية لـ <img id=""""RI_ICON_WPN_SWORD""""/>، تتولد ضربات قاطعة طائرة إضافية""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>""]"
+EL_MAGICSTONE_SWORD_11_DESCRIPTION,MAGICSTONE_SWORD_11_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>のクリティカル発生率が{Num:1}％上昇""","""・يزداد معدل الضربات الحرجة لـ <img id=""""RI_ICON_WPN_SWORD""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>""]"
+EL_MAGICSTONE_SWORD_11_NAME,MAGICSTONE_SWORD_11_NAME,skill_description,クリティカル発生上昇,زيادة معدل الضربات الحرجة,,[]
+EL_MAGICSTONE_SWORD_12_DESCRIPTION,MAGICSTONE_SWORD_12_DESCRIPTION,item_description,"""・ガードブレイク中の<img id=""""RI_ICON_WPN_SWORD""""/>の通常攻撃時、\n　飛ぶ斬撃が発生""","""・عند الهجوم العادي بـ <img id=""""RI_ICON_WPN_SWORD""""/> أثناء كسر حراسة العدو،\n　تتولد ضربات قاطعة طائرة""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_SWORD_13_DESCRIPTION,MAGICSTONE_SWORD_13_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>の攻撃ヒット後、\n　盾を構えると{Num:1}回まで全方向にガード""","・بعد إصابة هجوم <img id=""RI_ICON_WPN_SWORD""/>،\n　يصد الدرع الهجمات من كافة الاتجاهات حتى {Num:1} من المرات",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_SWORD_14_DESCRIPTION,MAGICSTONE_SWORD_14_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>のチャージが溜まるたび、\n　敵をノックバックさせるオーラを放出""","・كلما تراكم شحن <img id=""RI_ICON_WPN_SWORD""/>،\n　تنطلق هالة تدفع الأعداء إلى الخلف",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_SWORD_81_DESCRIPTION,MAGICSTONE_SWORD_81_DESCRIPTION,item_description,"""・体力が{Num:1}％以下の敵に対し、\n　<img id=""""RI_ICON_WPN_SWORD""""/>のダメージが{Num:2}％上昇""","・ضد الأعداء الذين تبلغ نقاط الصحة لديهم {Num:1}٪ أو أقل،\n　يزداد ضرر <img id=""RI_ICON_WPN_SWORD""/> بنسبة {Num:2}٪",,"[""\\n"", ""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>""]"
+EL_MAGICSTONE_SWORD_82_DESCRIPTION,MAGICSTONE_SWORD_82_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>のクリティカル発生率が{Num:1}％上昇""","""・يزداد معدل الضربات الحرجة لـ <img id=""""RI_ICON_WPN_SWORD""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>""]"
+EL_MAGICSTONE_SWORD_83_DESCRIPTION,MAGICSTONE_SWORD_83_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>のダメージが{Num:1}％上昇\n・ガード時、盾の耐久力が減少しやすくなる""","・يزداد ضرر <img id=""RI_ICON_WPN_SWORD""/> بنسبة {Num:1}٪\n・عند الصد، تقل متانة الدرع بسهولة أكبر",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>"", ""\\n""]"
+EL_MAGICSTONE_SWORD_84_DESCRIPTION,MAGICSTONE_SWORD_84_DESCRIPTION,item_description,"""・<img id=""""RI_ICON_WPN_SWORD""""/>のチャージ時間が{Num:1}％短縮""","""・يقل وقت شحن <img id=""""RI_ICON_WPN_SWORD""""/> بنسبة {Num:1}％""",,"[""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>""]"
+EL_MAGICSTONE_SWORD_85_DESCRIPTION,MAGICSTONE_SWORD_85_DESCRIPTION,item_description,"""・盾の耐久力が{Num:1}％以上の時、\n　<img id=""""RI_ICON_WPN_SWORD""""/>のダメージが{Num:2}％上昇""","・عندما تكون متانة الدرع {Num:1}٪ أو أكثر،\n　يزداد ضرر <img id=""RI_ICON_WPN_SWORD""/> بنسبة {Num:2}٪",,"[""\\n"", ""<img id=\""\""RI_ICON_WPN_SWORD\""\""/>""]"
+EL_MagicStoneLottery_All_01,MagicStoneLottery_All_01,item_description,魔石をランダムに生成,توليد حجر السحر عشوائيًا,,[]
+EL_MagicStoneLottery_AutoDecompose,MagicStoneLottery_AutoDecompose,item_description,すでに所持している魔石は分解されました,تم تفكيك حجر السحر المملوك بالفعل,,[]
+EL_MagicStoneLottery_Bomb_01,MagicStoneLottery_Bomb_01,item_name,爆弾の魔石を生成,صنع حجر سحر القنبلة,,[]
+EL_MagicStoneLottery_Boomerang_01,MagicStoneLottery_Boomerang_01,item_description,ブーメランの魔石を生成,صنع حجر سحر البوميرانج,,[]
+EL_MagicStoneLottery_Bow_01,MagicStoneLottery_Bow_01,item_name,弓の魔石を生成,صنع حجر سحر القوس,,[]
+EL_MagicStoneLottery_ButtonGuide_Help,MagicStoneLottery_ButtonGuide_Help,skill_name,効果確認,التحقق من التأثير,,[]
+EL_MagicStoneLottery_Chain_01,MagicStoneLottery_Chain_01,item_name,鎖鎌の魔石を生成,صنع حجر سحر السلسلة,,[]
+EL_MagicStoneLottery_Hammer_01,MagicStoneLottery_Hammer_01,item_description,ハンマーの魔石を生成,صنع حجر سحر المطرقة,,[]
+EL_MagicStoneLottery_MSList,MagicStoneLottery_MSList,item_name,全魔石一覧,قائمة كافة أحجار السحر,,[]
+EL_MagicStoneLottery_NotEnoughItem,MagicStoneLottery_NotEnoughItem,item_description,魔石の欠片が足りません,شظايا حجر السحر غير كافية,,[]
+EL_MagicStoneLottery_Spear_01,MagicStoneLottery_Spear_01,item_name,槍の魔石を生成,صنع حجر سحر الرمح,,[]
+EL_MagicStoneLottery_Sword_01,MagicStoneLottery_Sword_01,item_name,剣の魔石を生成,صنع حجر سحر السيف,,[]
+EL_MagicStoneMenu_Guide_PresetSwitch,MagicStoneMenu_Guide_PresetSwitch,item_name,魔石セット変更,تغيير مجموعة أحجار السحر,,[]
+EL_MagicStoneMenu_Sort_Receipt,MagicStoneMenu_Sort_Receipt,item_name,入手順,حسب تاريخ الحصول,,[]
+EL_MagicStoneMenu_Tab_Bomb,MagicStoneMenu_Tab_Bomb,item_name,爆弾の魔石,أحجار سحر القنبلة,,[]
+EL_MagicStoneMenu_Tab_Boomerang,MagicStoneMenu_Tab_Boomerang,item_name,ブーメランの魔石,أحجار سحر البوميرانج,,[]
+EL_MagicStoneMenu_Tab_Bow,MagicStoneMenu_Tab_Bow,item_name,弓の魔石,أحجار سحر القوس,,[]
+EL_MagicStoneMenu_Tab_Chain,MagicStoneMenu_Tab_Chain,item_name,鎖鎌の魔石,أحجار سحر السلسلة,,[]
+EL_MagicStoneMenu_Tab_Equipping,MagicStoneMenu_Tab_Equipping,item_description,装備中の魔石セット,مجموعة أحجار السحر المجهزة,,[]
+EL_MagicStoneMenu_Tab_Hammer,MagicStoneMenu_Tab_Hammer,item_name,ハンマーの魔石,أحجار سحر المطرقة,,[]
+EL_MagicStoneMenu_Tab_Spear,MagicStoneMenu_Tab_Spear,item_name,槍の魔石,أحجار سحر الرمح,,[]
+EL_MagicStoneMenu_Tab_Sword,MagicStoneMenu_Tab_Sword,item_name,剣の魔石,أحجار سحر السيف,,[]
+EL_MagicStonePreset_Set_Text,MagicStonePreset_Set_Text,item_name,魔石セット{N},مجموعة أحجار السحر {N},,"[""{N}""]"
+EL_MagicStoneShop_Decompose_Equipped,MagicStoneShop_Decompose_Equipped,item_name,装備中の魔石です,حجر السحر هذا مجهز حاليًا,,[]
+EL_MagicStoneShop_Enhance_CostLevel,MagicStoneShop_Enhance_CostLevel,item_name,魔石箱レベル,مستوى صندوق حجر السحر,[FIT-CHECK: short_arabic: مستوى صندوق الحجر],[]
+EL_MagicStoneShop_Select_02,MagicStoneShop_Select_02,item_name,魔石箱,صندوق أحجار السحر,,[]
+EL_MainMenuCategoryStone,MainMenuCategoryStone,item_name,魔石,حجر السحر,,[]
+EL_MainMenuCategorySub,MainMenuCategorySub,quest_title,クエスト,المهام,,[]
+EL_MainMenuCategoryWeapon,MainMenuCategoryWeapon,item_name,冒険の道具,أدوات المغامرة,,[]
+EL_MainMenuTitleQuest,MainMenuTitleQuest,quest_title,クエスト,المهام,,[]
+EL_MainMenuWindowQuestTitle,MainMenuWindowQuestTitle,quest_title,クエスト,المهام,,[]
+EL_NPC0010_P149_M010_NPC0010_f,NPC0010_P149_M010_NPC0010_f,item_description,レシピが見つかったら\n持ってきてもらえると助かります！,إذا عثرتَ على وصفة،\nسأكون ممتنة لو أحضرتَها لي!,,"[""\\n""]"
+EL_NPC0010_P150_M010_NPC0010_f,NPC0010_P150_M010_NPC0010_f,item_description,レシピを持ってきてくださったんですね。\nありがとうございます！,لقد أحضرتَ لي الوصفة إذن.\nشكرًا جزيلًا لك!,,"[""\\n""]"
+EL_NPC0010_P160_M010_NPC0010_f,NPC0010_P160_M010_NPC0010_f,item_description,レシピを持ってきてくださったんですね。\nありがとうございます！,لقد أحضرتَ لي الوصفة إذن.\nشكرًا جزيلًا لك!,,"[""\\n""]"
+EL_NPC0010_P170_M010_NPC0010_f,NPC0010_P170_M010_NPC0010_f,item_description,まあ、こんなにたくさんのレシピを\nありがとうございます！,يا إلهي، كل هذه الوصفات؟\nشكرًا جزيلًا لك!,,"[""\\n""]"
+EL_NPC0010_P190_M010_NPC0010_f,NPC0010_P190_M010_NPC0010_f,item_description,他にもまだレシピを探してきてくれるのですか？,هل ستستمر في البحث عن وصفات أخرى من أجلي؟,,[]
+EL_NPC0010_P200_M010_NPC0010_f,NPC0010_P200_M010_NPC0010_f,item_description,もうレシピはたくさんあると思うのですが……,أظن أن لدينا الكثير من الوصفات بالفعل، ولكن...,,[]
+EL_NPC0030_P140_M020_NPC0030_m,NPC0030_P140_M020_NPC0030_m,item_description,レシピならば、先日行われた食事会の物があるはずだ。\n食堂にいる侍女に聞いてみるといいだろう。,إذا كنت تبحث عن الوصفات، فلا بد أن هناك بعضًا منها من مأدبة الطعام التي أقيمت مؤخرًا.\nأنصحك بسؤال الخادمة في قاعة الطعام.,,"[""\\n""]"
+EL_NPC0030_P150_M030_NPC0030_m,NPC0030_P150_M030_NPC0030_m,item_description,先日、兵士たちとの食事会でふるまわれた料理だ。\nレシピは私の部屋に保管してある。好きに使うといい。,هذه هي الأطباق التي قُدمت في مأدبة الطعام مع الجنود مؤخرًا.\nالوصفات محفوظة في غرفتي، فلتستخدمها كما تشاء.,,"[""\\n""]"
+EL_NPC0180_P010_M020_NPC0180_f,NPC0180_P010_M020_NPC0180_f,item_description,街の外での調査には危険がつきものですからね。\n便利な道具は必要なんですよ。,التحقيق خارج المدينة محفوف بالمخاطر دائمًا.\nلذا فإن الأدوات المفيدة ضرورية للغاية.,,"[""\\n""]"
+EL_NPC0191_P030_M030_NPC0191_m,NPC0191_P030_M030_NPC0191_m,item_description,ミルクたっぷりの甘いシチューさ。\nでも、レシピは魔法の時代に置いてきちゃったな……,إنه حساء حلو غني بالحليب.\nلكنني تركت الوصفة خلفي في عصر السحر...,,"[""\\n""]"
+EL_NPC0240_P120_M010_NPC0240_f,NPC0240_P120_M010_NPC0240_f,item_description,おいしい料理のレシピが知りたいのかい？,هل تود معرفة وصفة طبق لذيذ؟,,[]
+EL_NPC0240_P120_M030_NPC0240_f,NPC0240_P120_M030_NPC0240_f,item_description,あんたも昔、好きだったんだよ。\nレシピはええと……どこにしまったかねえ？,لقد كنتَ تحبه في الماضي أيضًا.\nأما عن الوصفة... دعني أفكر، أين وضعتها يا ترى؟,,"[""\\n""]"
+EL_NPC2311_P010_M010_NPC2311_f,NPC2311_P010_M010_NPC2311_f,item_description,魔石をうまく使っていますか？　組み合わせ次第で、\n強い効果を得ることもできるらしいですよ。,هل تستخدم أحجار السحر بشكل جيد؟ يُقال إنك قد تحصل على تأثيرات قوية\nحسب طريقة دمجها معًا.,,"[""\\n""]"
+EL_NPC2311_P010_M020_NPC2311_f,NPC2311_P010_M020_NPC2311_f,item_description,しかし、我々の技術をもってしても、\n魔石の不思議な力は解析できそうにありません。,ولكن حتى مع تقنياتنا، يبدو أنه لا يمكننا\nتحليل القوة الغامضة لأحجار السحر.,,"[""\\n""]"
+EL_NPC3002_P050_M010_NPC3002_m,NPC3002_P050_M010_NPC3002_m,item_description,爆弾を試すように言われたんだって？\nあの道具屋の店主、ちゃっかりしてるよな。,لقد قيل لك أن تجرب القنبلة، أليس كذلك؟\nإن صاحب ذلك المتجر انتهازي بحق.,,"[""\\n""]"
+EL_NPC3200_P010_M010_NPC3200_f,NPC3200_P010_M010_NPC3200_f,item_description,あの行商人、久しぶりに見たわ。\nふらっと村に現れて、魔石とかいう物を売ってるの。,لم أرَ ذلك التاجر المتجول منذ فترة طويلة.\nيظهر فجأة في القرية ليبيع أشياء تسمى أحجار السحر.,,"[""\\n""]"
+EL_NPC3200_P010_M020_NPC3200_f,NPC3200_P010_M020_NPC3200_f,item_description,魔石って何でできてるのかしら？\n西の火山で採れる鉄鉱石とも違うようだけど……,أتساءل ممَّ صُنعت أحجار السحر؟\nيبدو أنها تختلف عن خام الحديد المستخرج من البركان الغربي...,,"[""\\n""]"
+EL_NPC3200_P030_M010_NPC3200_f,NPC3200_P030_M010_NPC3200_f,item_description,村の道具屋は小さいけれど、品揃えは悪くないはずよ。\n戦いの前に、準備しておくといいわ。,رغم أن متجر القرية صغير، إلا أن تشكيلة بضائعه جيدة.\nمن الأفضل أن تستعد قبل المعركة.,,"[""\\n""]"
+EL_NPC3200_P030_M020_NPC3200_f,NPC3200_P030_M020_NPC3200_f,item_description,こんなときでも、魔石屋さんがいてくれるみたい。\n寄っておくのを忘れずにね。,يبدو أن بائع أحجار السحر متواجد حتى في مثل هذه الأوقات.\nلا تنسَ أن تمر به.,,"[""\\n""]"
+EL_NPC3219_P080_M010_NPC3219_m,NPC3219_P080_M010_NPC3219_m,skill_description,エリオット、彼女の容態だが\nまだ回復に時間がかかりそうだ。,يا إليوت، بالنسبة لحالتها الصحية،\nيبدو أن شفاءها سيستغرق بعض الوقت بعد.,,"[""\\n""]"
+EL_NPC3219_P110_M010_NPC3219_m,NPC3219_P110_M010_NPC3219_m,skill_description,まだしばらく安静にしておいたほうがいいだろう。\n回復には時間がかかる……だがやれることはやったよ。,من الأفضل أن ترتاح لبعض الوقت بعد.\nالشفاء يستغرق وقتًا... لكننا فعلنا كل ما بوسعنا.,,"[""\\n""]"
+EL_NPC3219_P120_M010_NPC3219_m,NPC3219_P120_M010_NPC3219_m,skill_description,まだ体も回復しきってないというのに……\nいったい、どうしたっていうんだ……,رغم أن جسدها لم يتعافَ تمامًا بعد...\nما الذي يحدث بحق السماء...,,"[""\\n""]"
+EL_NPC3301_P060_M020_NPC3301_m,NPC3301_P060_M020_NPC3301_m,skill_description,動いているほうが、体の回復も早いってさ。\nったく、一度死にかけたヤツとは思えないぜ。,يقولون إن الحركة تعجل من شفاء الجسد.\nحقًا، لا يبدو عليها مطلقًا أنها نجت من الموت بأعجوبة.,,"[""\\n""]"
+EL_NPC3302_P015_M010_NPC3302_m,NPC3302_P015_M010_NPC3302_m,item_description,道具屋の店主に、蛮族の討伐を頼まれたんだって？\nそれなら、西の入口に向かってくれ。,لقد طلب منك صاحب المتجر القضاء على البرابرة؟\nإذن، توجه إلى المدخل الغربي.,,"[""\\n""]"
+EL_NPC4003_P015_M020_NPC4003_m,NPC4003_P015_M020_NPC4003_m,item_description,道具屋に扱いがないのが残念だけれどね。\nまあ、どこかで見つけたら試してみなよ。,من المؤسف أنه غير متوفر في المتجر.\nعلى أي حال، إذا وجدته في مكان ما فجربه.,,"[""\\n""]"
+EL_NPC4004_P010_M010_NPC4004_m,NPC4004_P010_M010_NPC4004_m,item_description,そういえば、魔石って知ってるかい？\n街にふらっと来る行商人が取り扱ってる物らしいよ。,بالمناسبة، هل تعرف عن أحجار السحر؟\nيبدو أنها بضاعة يبيعها تاجر يزور المدينة بين الحين والآخر.,,"[""\\n""]"
+EL_NPC4005_P010_M010_NPC4005_m,NPC4005_P010_M010_NPC4005_m,item_description,この道具屋には、冒険の必需品が揃ってる。\n武器なんかも手に入るから、寄っていきな。,يحتوي هذا المتجر على أساسيات المغامرة.\nيمكنك الحصول على الأسلحة هنا أيضًا، لذا تفضل بالدخول.,,"[""\\n""]"
+EL_NPC4005_P020_M010_NPC4005_m,NPC4005_P020_M010_NPC4005_m,item_description,この道具屋には、冒険の必需品が揃ってる。\n武器や矢も手に入るから、寄っていきな。,يحتوي هذا المتجر على أساسيات المغامرة.\nيمكنك الحصول على الأسلحة والسهام أيضًا، لذا تفضل بالدخول.,,"[""\\n""]"
+EL_NPC4005_P025_M010_NPC4005_m,NPC4005_P025_M010_NPC4005_m,item_description,ロウエルが魔石屋の近くに店を開いたようだな。\nこことは違う商品が並んでるらしいぞ。,يبدو أن رولل قد افتتح متجرًا بالقرب من بائع أحجار السحر.\nويقال إن لديه بضائع مختلفة عن تلك التي هنا.,,"[""\\n""]"
+EL_NPC4005_P050_M010_NPC4005_m,NPC4005_P050_M010_NPC4005_m,skill_description,知ってるか？　回復の薬は、もとは地下水から\n汲み上げた水からつくられているんだ。,هل تعلم؟ إن جرعة الشفاء تُصنع في الأصل\nمن مياه مستخرجة من المياه الجوفية.,,"[""\\n""]"
+EL_NPC4005_P050_M020_NPC4005_m,NPC4005_P050_M020_NPC4005_m,skill_description,街の地下水には不思議と元気になる力があるらしい。\nちょうど効果の高い薬ができたようだから見てみろよ。,يبدو أن المياه الجوفية في المدينة تمتلك قوة غامضة تمنح النشاط.\nلقد انتهوا للتو من صنع جرعة فعالة للغاية، لذا ألقِ نظرة عليها.,,"[""\\n""]"
+EL_NPC4005_P060_M010_NPC4005_m,NPC4005_P060_M010_NPC4005_m,skill_description,回復の薬が、さらに強化されたみたいだぞ。\n値段は張るが、効果はバツグンだ。,يبدو أن جرعة الشفاء قد عُززت بشكل أكبر.\nسعرها مرتفع، لكن تأثيرها مذهل.,,"[""\\n""]"
+EL_NPC4012_P040_M010_NPC4012_f,NPC4012_P040_M010_NPC4012_f,item_description,街にある道具屋には、たまに追加の品物が\nあるみたいです。,يبدو أن المتجر الموجود في المدينة يوفر أحيانًا\nبضائع إضافية.,,"[""\\n""]"
+EL_NPC4012_P060_M010_NPC4012_f,NPC4012_P060_M010_NPC4012_f,item_description,そういえば、魔石屋の店主って\nちょっと変わった雰囲気の方ですよね。,على فكرة، يبدو أن صاحب متجر أحجار السحر\nلديه هالة غريبة بعض الشيء، أليس كذلك؟,,"[""\\n""]"
+EL_NPC4020_P015_M020_NPC4020_m,NPC4020_P015_M020_NPC4020_m,skill_description,そこをテリトリーにしているのが、フロギー族だ。\n奴らの歌には妙な効果があるらしいから気をつけな。,قبيلة فروغِي هي التي تتخذ من ذلك المكان إقليمًا لها.\nكن حذرًا، حيث يُقال إن لأغنيتهم تأثيرًا غريبًا.,,"[""\\n""]"
+EL_NPC4022_P060_M010_NPC4022_m,NPC4022_P060_M010_NPC4022_m,skill_description,なんと、次は神獣と戦うことになるとは……\nどこまでも、運命はあなたに試練を与えるのですね。,يا للغرب، ستقاتل وحشًا إلهيًا في المرة القادمة...\nالقدر يضع أمامك المحن أينما ذهبت.,,"[""\\n""]"
+EL_NPC4210_00,NPC4210_00,item_name,道具屋の店主,صاحب المتجر,,[]
+EL_NPC4210_P010_M010_NPC4210_m,NPC4210_P010_M010_NPC4210_m,item_description,私の店の道具は冒険の役に立ったかしら？\nいつもあなたの活躍を応援していたのよ。,هل كانت أدوات متجري مفيدة في مغامرتك؟\nلقد كنت أشجعك دائمًا.,,"[""\\n""]"
+EL_NPC4224_P010_M010_NPC4224_m,NPC4224_P010_M010_NPC4224_m,item_description,まさか本当にディマイズを倒してしまうとは……\n魔石の力を、存分に役立ててくれたようだな。,لم أتوقع حقًا أنك ستهزم ديمايز...\nيبدو أنك استفدت من قوة أحجار السحر على أكمل وجه.,,"[""\\n""]"
+EL_NPC4224,NPC4224,item_name,魔石屋の店主,صاحب متجر أحجار السحر,,[]
+EL_NPC4229,NPC4229,item_name,魔石屋の店主,صاحب متجر أحجار السحر,,[]
+EL_NPC4310_P040_M020_NPC4310_m,NPC4310_P040_M020_NPC4310_m,skill_description,薬師も病の原因はわからぬと……\nとにかく回復を祈るしかありません。,حتى الطبيب لا يعرف سبب المرض...\nليس أمامنا سوى الدعاء بالشفاء.,,"[""\\n""]"
+EL_NPC4314_P015_M020_NPC4314_m,NPC4314_P015_M020_NPC4314_m,item_description,必要な物は、そこにある道具屋で用意していきな。\n特に、強敵と戦う時は薬があると便利だ。,جهّز ما تحتاجه من ذلك المتجر هناك.\nخصوصًا عند قتال أعداء أقوياء، فمن المفيد أن يكون معك جرعات.,,"[""\\n""]"
+EL_NPC4314_P015_M030_NPC4314_m,NPC4314_P015_M030_NPC4314_m,skill_description,闘志の薬と不屈の薬は割と効果が続くからな。\n店先で飲んでから、回復薬を持っていくのも手だぞ。,جرعة الروح القتالية وجرعة الصمود تدوم آثارهما لفترة طويلة نسبيًا.\nقد يكون من الجيد شربهما أمام المتجر، ثم أخذ جرعات الشفاء معك.,,"[""\\n""]"
+EL_NPC4401_P070_M030_NPC4401_f,NPC4401_P070_M030_NPC4401_f,item_description,あの後、レシピをどこにしまったのか……\n陛下に聞けば、何かわかるかもしれません。,بعد ذلك، أين وضعتُ الوصفة يا ترى...\nإذا سألتَ جلالته، فقد تعرف شيئًا ما.,,"[""\\n""]"
+EL_NPC4401_P080_M030_NPC4401_f,NPC4401_P080_M030_NPC4401_f,item_description,食べると元気が湧いてくるとか。\nつくり方は覚えたので、レシピは本棚にしまってます。,يُقال إن تناولها يمد المرء بالنشاط.\nبما أنني حفظت طريقة تحضيرها، فقد وضعتُ الوصفة في خزانة الكتب.,,"[""\\n""]"
+EL_QUEST_Sub,QUEST_Sub,quest_description,"依頼内容を確認できます。
+QUEST,ストーリーや、サブクエストの確認が行なえます,クエスト",يمكنك التحقق من تفاصيل الطلبات.\nالتحقق من القصة والمهام الجانبية.,,[]
+EL_S01_N19_3000_M310_NPC0210_f,S01_N19_3000_M310_NPC0210_f,item_description,魔力を吸収する道具をつくり、\nここに置けば、抑え込めるでしょう。,إذا صنعنا أداة لامتصاص القوة السحرية\nووضعناها هنا، فسنتمكن من كبحها بالتأكيد.,,"[""\\n""]"
+EL_S01_N20_1000_M020_NPC0210_f,S01_N20_1000_M020_NPC0210_f,item_description,たった今、魔力を吸収する道具が\n完成したんだよ。,لقد اكتملت للتو صناعة الأداة\nالتي تمتص القوة السحرية.,,"[""\\n""]"
+EL_S02_N18_2000_M090_FYL000_f,S02_N18_2000_M090_FYL000_f,quest_description,やった！\nこれで、依頼はおしまいだね。,رائع!\nبهذا نكون قد أنهينا الطلب.,,"[""\\n""]"
+EL_S02_N23_2000_M050_PCM000_m,S02_N23_2000_M050_PCM000_m,quest_description,なぜ、止めるんですか？\n依頼は蛮族の排除でしたよね。,لماذا تمنعني؟\nألم يكن الطلب هو القضاء على البرابرة؟,,"[""\\n""]"
+EL_S02_N23_2000_M170_PCM000_m,S02_N23_2000_M170_PCM000_m,skill_description,人間の都合で自由を奪い、\n痛みを与えることが世のためですか？,هل سلب الحرية وإلحاق الألم من أجل مصلحة البشر\nهو ما يفيد العالم؟,,"[""\\n""]"
+EL_S03_N11_1000_01_C01_txt01,S03_N11_1000_01_C01_txt01,item_description,道具屋『マギーのよろず屋』の店主と話す,التحدث إلى صاحب متجر «متجر ماغي المتنوع»,,[]
+EL_S03_N11_3000_Summary,S03_N11_3000_Summary,quest_description,依頼を果たしたエリオットは店主から\n岩を壊すための爆弾を受け取る。,بعد تنفيذ الطلب، يتلقى إليوت من صاحب المتجر\nقنبلة لتحطيم الصخور.,,"[""\\n""]"
+EL_S03_N28_2000_M070_NPC0130_f,S03_N28_2000_M070_NPC0130_f,item_description,それなんだが、わたしもあれこれ文献を調べたけど、\n肝心の入手場所はわからなかったんだ。,بخصوص هذا الأمر، لقد بحثتُ في وثائق مختلفة،\nلكنني لم أتمكن من معرفة موقع الحصول عليه.,,"[""\\n""]"
+EL_S03_N34_9000_M090_NPC3219_m,S03_N34_9000_M090_NPC3219_m,item_description,助かるよ。\nこういった素材は、薬になることもあるからね。,هذا يفيدني كثيرًا.\nفمثل هذه المواد يمكن استخدامها لصنع الأدوية أحيانًا.,,"[""\\n""]"
+EL_S04_N01_1000_01_txt01,S04_N01_1000_01_txt01,item_description,ユイジーヌに頼まれた素材を手に入れる,الحصول على المواد التي طلبها يوجين,,[]
+EL_S04_N01_1000_M040_PCM000_m,S04_N01_1000_M040_PCM000_m,item_description,ああ、いつもの素材調達か。\nお前の頼みなら断れないな。,آه، جمع المواد المعتاد؟\nلا يمكنني رفض طلبك.,,"[""\\n""]"
+EL_S04_N01_1000_M060_NPC0020_m,S04_N01_1000_M060_NPC0020_m,quest_description,あ、もちろん報酬は出すよ。\nそうだなあ……,آه، بالطبع سأعطيك مكافأة.\nدعني أفكر...,,"[""\\n""]"
+EL_S04_N01_2000_M030_NPC0020_m,S04_N01_2000_M030_NPC0020_m,quest_description,じゃあ、約束の報酬だよ。\n受け取ってくれ。,حسنًا، هذه هي المكافأة الموعودة.\nتفضل بقبولها.,,"[""\\n""]"
+EL_S04_N05_3100_M200_NPC4219_f,S04_N05_3100_M200_NPC4219_f,skill_description,こんなに効果があるなんて……\nひょっとして、すごく貴重な物なんじゃない？,أن يكون لها كل هذا التأثير...\nهل يعقل أن تكون شيئًا ثمينًا للغاية؟,,"[""\\n""]"
+EL_S04_N05_3100_M260_NPC0040_m,S04_N05_3100_M260_NPC0040_m,skill_description,この実には、体の不調を和らげる効果がある。\n……あの人は、体が弱かった。,هذه الثمرة لها ميزة تخفيف آلام الجسد.\n...لقد كان جسد ذلك الشخص ضعيفًا.,,"[""\\n""]"
+EL_S04_N06_3000_M110_NPC4401_f,S04_N06_3000_M110_NPC4401_f,item_description,お肉料理なら、参考になりそうなレシピがあります。\n腕によりをかけてつくりますね！,إذا كان الأمر يتعلق بأطباق اللحوم، فلدي وصفة قد تفيدنا.\nسأبذل قصارى جهدي لإعدادها!,,"[""\\n""]"
+EL_S04_N06_3000_M120_NPC4401_f,S04_N06_3000_M120_NPC4401_f,item_description,お魚料理なら、参考になりそうなレシピがあります。\n任せてください！,إذا كان الأمر يتعلق بأطباق الأسماك، فلدي وصفة قد تفيدنا.\nاعتمد عليّ!,,"[""\\n""]"
+EL_S04_N06_3100_M320_NPC4312_00_m,S04_N06_3100_M320_NPC4312_00_m,item_description,それぞれの素材が、お互いを引き立てあっている。\n……料理の組み合わせって、ほんと不思議だよな。,كل مكون يبرز نكهة الآخر.\n...التناغم في الطهي أمر مذهل حقًا، أليس كذلك؟,,"[""\\n""]"
+EL_S04_N06_3300_M050_NPC0030_m,S04_N06_3300_M050_NPC0030_m,item_description,何度も失敗しながらつくった、名も無き料理だ。\nレシピなど残していなかったはずだが……,إنه طبق بلا اسم أعددته بعد محاولات فاشلة عديدة.\nلم يكن من المفترض أن أترك أي وصفة خلفي، ولكن...,,"[""\\n""]"
+EL_S04_N06_3300_M070_NPC4401_f,S04_N06_3300_M070_NPC4401_f,item_description,王妃様は、このお料理を大変気に入られて\n私どもにレシピを残してくださったのです。,لقد نال هذا الطبق إعجاب الملكة بشدة،\nلذا تركت لنا الوصفة.,,"[""\\n""]"
+EL_S04_N06_3300_M110_NPC0030_m,S04_N06_3300_M110_NPC0030_m,item_description,『思い出の味』……\nレシピに、そう書かれているぞ？,«مذاق الذكريات»...\nهل هذا هو المكتوب في الوصفة؟,,"[""\\n""]"
+EL_S04_N06_3300_M130_NPC4401_f,S04_N06_3300_M130_NPC4401_f,item_description,王妃様は、この料理に思い出の味と名付け\nこうして私たちに、レシピを伝えていたのです。,لقد أطلقت الملكة على هذا الطبق اسم مذاق الذكريات،\nونقلت إلينا الوصفة بهذه الطريقة.,,"[""\\n""]"
+EL_S04_N08_6000_M050_NPC0020_m,S04_N08_6000_M050_NPC0020_m,skill_description,僕がお呼びしたんだ。\nこの薬の効果には、絶対の自信があるからね。,أنا من استدعاك.\nلأنني أثق تمام الثقة في فعالية هذا الدواء.,,"[""\\n""]"
+EL_S04_N08_6000_M330_NPC0020_m,S04_N08_6000_M330_NPC0020_m,skill_description,ああ……薬の効果が……,آه... تأثير الدواء...,,[]
+EL_S04_N08_6000_M550_NPC0020_m,S04_N08_6000_M550_NPC0020_m,skill_description,君が紡ぎ出す、新しい冒険譚は\nきっと多くの人に、夢と希望を与えるはずだよ。,حكاية المغامرة الجديدة التي تسطرها\nستمنح الكثيرين بلا شك الأحلام والأمل.,,"[""\\n""]"
+EL_S04_N24_1000_M060_NPC4200_00_m,S04_N24_1000_M060_NPC4200_00_m,quest_description,これまでに何度も依頼を出したんだが\nキリがねえんだよ。,لقد قدمتُ طلبات عديدة حتى الآن،\nلكن لا نهاية لها.,,"[""\\n""]"
+EL_S04_N24_4000_M290_PCM000_m,S04_N24_4000_M290_PCM000_m,skill_description,あの人、すっかり回復したみたいだな。,يبدو أن ذلك الشخص قد تعافى تمامًا.,,[]
+EL_S04_N29_1000_03_C01_txt01,S04_N29_1000_03_C01_txt01,item_description,集めたレシピをヒューリア姫に届ける,إيصال الوصفات التي تم جمعها إلى الأميرة هيوريا,,[]
+EL_S04_N29_1000_03_txt01,S04_N29_1000_03_txt01,item_description,料理のレシピを探して、ヒューリア姫に届ける,البحث عن وصفات الطهي وإيصالها إلى الأميرة هيوريا,,[]
+EL_S04_N29_3000_M060_PCM000_m,S04_N29_3000_M060_PCM000_m,item_description,よし、参考になりそうなレシピがないか、\n探してみるよ。,"حسناً، سأبحث عن بعض الوصفات التي
+قد تفيدنا.",,"[""\\n""]"
+EL_S04_N29_3000_M110_PCM000_m,S04_N29_3000_M110_PCM000_m,item_description,うん、フェイもレシピを探すのに\n協力すると言っている。,"""نعم، فاي تقول إنها ستساعد أيضاً
+في البحث عن الوصفة."" (Fay is female, so ""تقول إنها ستساعد"" or ""فاي تقول أيضاً إنها ستعاونني في البحث عن الوصفة"" - Fay is locked as فاي. Let's write: ""أجل، فاي تقول إنها ستساعد أيضاً
+في البحث عن الوصفة."")",,"[""\\n""]"
+EL_S04_N29_4100_M010_NPC0010_f,S04_N29_4100_M010_NPC0010_f,item_description,レシピを持ってきてくださったんですね。\nありがとうございます！,لقد أحضرتَ لي الوصفة إذن.\nشكرًا جزيلًا لك!,,"[""\\n""]"
+EL_S04_N29_4100_M020_NPC0010_f,S04_N29_4100_M020_NPC0010_f,item_description,レシピを持ってきてくださったんですね。\nありがとうございます！,لقد أحضرتَ لي الوصفة إذن.\nشكرًا جزيلًا لك!,,"[""\\n""]"
+EL_S04_N29_4100_M040_NPC0010_f,S04_N29_4100_M040_NPC0010_f,item_description,まあ、こんなにたくさんのレシピを\nありがとうございます！,يا إلهي، كل هذه الوصفات؟\nشكرًا جزيلًا لك!,,"[""\\n""]"
+EL_S04_N29_4100_M070_NPC0010_f,S04_N29_4100_M070_NPC0010_f,item_description,他にもまだレシピを探してきてくれるのですか？,هل ستستمر في البحث عن وصفات أخرى من أجلي؟,,[]
+EL_S04_N29_4100_M080_NPC0010_f,S04_N29_4100_M080_NPC0010_f,item_description,もうレシピはたくさんあると思うのですが……,أظن أن لدينا الكثير من الوصفات بالفعل، ولكن...,,[]
+EL_S04_N29_6000_M100_NPC0010_f,S04_N29_6000_M100_NPC0010_f,item_description,この卵料理は、\nあなたのお父様のレシピだったのですか……！,"أكان طبق البيض هذا
+وصفة والدك حقاً...!",,"[""\\n""]"
+EL_S04_N29_6000_M170_NPC0010_f,S04_N29_6000_M170_NPC0010_f,item_description,これは、カーターさんの\nレシピだったのですね……！,"إذاً، لقد كانت هذه وصفة
+السيد كارتر...!",,"[""\\n""]"
+EL_S04_N29_6000_M400_NPC0010_f,S04_N29_6000_M400_NPC0010_f,item_description,実は、今日の料理のレシピは\nエリオットが持ってきてくれたんですよ。,"في الواقع، إليوت هو من أحضر
+وصفة طبق اليوم.",,"[""\\n""]"
+EL_S04_N29_7000_M020_NPC0010_f,S04_N29_7000_M020_NPC0010_f,item_description,はい。エリオットが持ってきてくれた\nレシピのおかげで、大成功でした。,"أجل. بفضل الوصفة التي أحضرها إليوت،
+حققنا نجاحاً باهراً.",,"[""\\n""]"
+EL_S04_N35_1000_M150_NPC0190_m,S04_N35_1000_M150_NPC0190_m,skill_description,歩けるくらいには回復してるよ。\n気遣いありがとう。,"لقد تعافيت بما يكفي لأتمكن من المشي.
+أشكرك على اهتمامك.",,"[""\\n""]"
+EL_S04_N35_3000_M120_NPC0240_f,S04_N35_3000_M120_NPC0240_f,item_description,冒険の道具を持って、すぐどっかに行っちゃって\n日が暮れても帰ってこないもんだから――,"يأخذ أدوات المغامرة ويذهب إلى مكان ما فوراً،
+ولا يعود حتى بعد حلول الظلام—",,"[""\\n""]"
+EL_SCN_0120_FLAVOR,SCN_0120_FLAVOR,skill_description,湖に生息する、寿命が千年とされる貝の殻。\n砕くと薬になり、痛みを和らげる効果がある。,"صدفة محارة تعيش في البحيرة ويُقدر عمرها بألف عام.
+طحنها ينتج دواءً يخفف الألم.",,"[""\\n""]"
+EL_SCN_0130_FLAVOR,SCN_0130_FLAVOR,skill_description,砂漠に生息する、扇の形をしたサボテンがつける花。\n薬として使われ、熱を下げる効果がある。,"زهرة تنبت على صبار مروحي الشكل يعيش في الصحراء.
+تُستخدم كدواء فعال في خفض الحرارة.",,"[""\\n""]"
+EL_SCN_0140_FLAVOR,SCN_0140_FLAVOR,skill_description,砂漠に生息する、扇の形をしたサボテンの果肉。\n薬として使われ、傷を治す効果がある。,"لب صبار مروحي الشكل يعيش في الصحراء.
+يُستخدم كدواء يساهم في شفاء الجروح.",,"[""\\n""]"
+EL_SCN_0150_FLAVOR,SCN_0150_FLAVOR,skill_description,冷めた溶岩の上に生える希少な植物の葉。\n薬として使われ、身体の抵抗力を高める効果がある。,"أوراق نبات نادر ينمو فوق الحمم البركانية الباردة.
+تُستخدم كدواء لتعزيز مناعة الجسم.",,"[""\\n""]"
+EL_SCN_0170_FLAVOR,SCN_0170_FLAVOR,skill_description,トゲトゲした外見を持つ木の実。\n苦味はあるが、酩酊状態を和らげる効果がある。,"ثمرة شجرة ذات مظهر شائك.
+رغم مرارتها، إلا أنها تفيد في تخفيف الدوار.",,"[""\\n""]"
+EL_SCN_8020_FLAVOR,SCN_8020_FLAVOR,item_description,ゴツゴツした字で記された卵料理のレシピ。\nふわふわのとろとろに仕上げるコツが書いてある。,"وصفة لطبق البيض مكتوبة بخط يد خشن.
+تحتوي على سر إعداده بقوام هش وسلس.",,"[""\\n""]"
+EL_SCN_8020_NAME,SCN_8020_NAME,item_name,卵料理のレシピ,"""وصفة طبق البيض"" (15 chars)",,[]
+EL_SCN_8030_FLAVOR,SCN_8030_FLAVOR,item_description,几帳面な字で記されたシチューのレシピ。\nマオの好みに合わせてミルク多めに、と書いてある。,"وصفة يخنة مكتوبة بخط يد دقيق.
+مكتوب فيها: أضف الكثير من الحليب لإرضاء ذوق ماو.",,"[""\\n""]"
+EL_SCN_8030_NAME,SCN_8030_NAME,item_description,ミルクシチューのレシピ,"""وصفة يخنة الحليب"" (17 chars)",,[]
+EL_SCN_8040_FLAVOR,SCN_8040_FLAVOR,item_description,ヒカルド王が王妃のために用意した魚料理のレシピ。\n王妃が料理に名前をつけ、レシピとして残していた。,"وصفة طبق سمك أعدها الملك هيكاردو لملكته.
+أطلقت الملكة اسماً على الطبق ودونته كوصفة.",,"[""\\n""]"
+EL_SCN_8040_NAME,SCN_8040_NAME,item_description,『思い出の味』のレシピ,"""وصفة «مذاق الذكريات»"" (20 chars)",,[]
+EL_SCN_8050_FLAVOR,SCN_8050_FLAVOR,item_description,亡くなった王妃が記した肉料理のレシピ。\n疲れを吹き飛ばす、元気の出る食材が選ばれている。,"وصفة لطبق لحم دونتها الملكة الراحلة.
+اُختيرت مكوناتها بعناية لتمد الجسم بالطاقة وتطرد التعب.",,"[""\\n""]"
+EL_SCN_8050_NAME,SCN_8050_NAME,item_name,肉料理のレシピ,"""وصفة طبق اللحم"" (14 chars)",,[]
+EL_SCN_8060_FLAVOR,SCN_8060_FLAVOR,item_description,おおらかな字で記された野菜のパイのレシピ。\n野菜は新鮮な物をたっぷり入れる、と記されている。,"وصفة فطيرة خضار مكتوبة بخط يد عريض.
+توصي باستخدام الكثير من الخضار الطازجة.",,"[""\\n""]"
+EL_SCN_8060_NAME,SCN_8060_NAME,item_description,野菜たっぷりパイのレシピ,"""وصفة فطيرة خضار وفيرة"" (21 chars)",,[]
+EL_Section_Sub,Section_Sub,quest_title,サブクエスト,"""المهمات الجانبية"" (16 chars)",,[]
+EL_SHIELD_1_DESCRIPTION,SHIELD_1_DESCRIPTION,skill_description,・耐久力{Num:1},"""• المتانة {Num:1}"" (locked: المتانة for 耐久)",,[]
+EL_SHIELD_2_DESCRIPTION,SHIELD_2_DESCRIPTION,skill_description,・耐久力{Num:1},"""• المتانة {Num:1}"" (locked: المتانة for 耐久)",,[]
+EL_SHIELD_2B_DESCRIPTION,SHIELD_2B_DESCRIPTION,skill_description,・耐久力{Num:1}\n・ジャストガードが発動できる,"• المتانة {Num:1}
+• يمكن تفعيل الحراسة المثالية",,"[""\\n""]"
+EL_SPM01_E07_1100_A_M01_NPC0010_f,SPM01_E07_1100_A_M01_NPC0010_f,item_description,不思議な行商人でしたね……\n魔石の生成というものを、初めて見ました。,"يا له من تاجر متجول غريب...
+هذه أول مرة أرى فيها عملية صنع حجر السحر.",,"[""\\n""]"
+EL_SPPLAY_BOSS_K06_A_M01_FYL000_f,SPPLAY_BOSS_K06_A_M01_FYL000_f,skill_description,回復してる！？\nあれを壊さないとダメかも！,"إنه يتعافى؟!
+قد يتعين علينا تدمير ذلك الشيء أولاً!",,"[""\\n""]"
+EL_SPPLAY_BOSS_L12_A_M02_FYL000_f,SPPLAY_BOSS_L12_A_M02_FYL000_f,item_description,ちゃんと装備して、もう一度やってみよう！,دعنا نرتدي المعدات بشكل صحيح ونحاول مجدداً!,,[]
+EL_SPPLAY_BOSS_L14_A_M01_FYL000_f,SPPLAY_BOSS_L14_A_M01_FYL000_f,item_description,エリオット、ペンダントは装備しないと！,إليوت، عليك ارتداء القلادة أولاً!,,[]
+EL_SPPLAY_BTL_A01_A_M01_NPC0010_f,SPPLAY_BTL_A01_A_M01_NPC0010_f,skill_description,イヤリングを通して私の魔力を送れば、\nあなたの体力を回復できるはずです。,"إذا أرسلتُ قوتي السحرية عبر القرط،
+فسأتمكن من استعادة نقاط الصحة الخاصة بك.",,"[""\\n""]"
+EL_SPPLAY_BTL_A05_A_M01_NPC0010_f,SPPLAY_BTL_A05_A_M01_NPC0010_f,skill_description,早く回復をしなければ。\nいったん退いてください！,"يجب أن نستعيد عافيتنا بسرعة.
+يرجى التراجع مؤقتاً!",,"[""\\n""]"
+EL_SPPLAY_BTL_A05_B_M01_FYL000_f,SPPLAY_BTL_A05_B_M01_FYL000_f,skill_description,エリオット、大丈夫！？\n早く回復しないと！,"إليوت، هل أنت بخير؟!
+علينا استعادة عافيتنا بسرعة!",,"[""\\n""]"
+EL_SPPLAY_BTL_A05_B_M01_NPC0010_f,SPPLAY_BTL_A05_B_M01_NPC0010_f,skill_description,大丈夫ですか！？\n回復なら私に任せてください！,"هل أنت بخير؟!
+دع مهمة العلاج لي!",,"[""\\n""]"
+EL_SPPLAY_BTL_A11_A_M01_FYL000_f,SPPLAY_BTL_A11_A_M01_FYL000_f,item_description,やったー！\n魔石のかけらだあ～！,"رائع!
+إنها شظية حجر السحر!",,"[""\\n""]"
+EL_SPPLAY_BTL_A11_A_M01_NPC0010_f,SPPLAY_BTL_A11_A_M01_NPC0010_f,item_description,魔石のかけらですね！,إنها شظية حجر السحر!,,[]
+EL_SPPLAY_BTL_A11_B_M01_FYL000_f,SPPLAY_BTL_A11_B_M01_FYL000_f,item_description,魔石のかけらを拾ったよ！\n新しい魔石、つくれるかな？,"لقد التقطتُ شظية حجر السحر!
+هل يا ترى يمكننا صنع حجر سحر جديد؟",,"[""\\n""]"
+EL_SPPLAY_BTL_A11_B_M01_NPC0010_f,SPPLAY_BTL_A11_B_M01_NPC0010_f,item_description,魔石のかけらが手に入りましたね！\n新しい魔石をつくれるでしょうか？,"لقد حصلنا على شظية حجر السحر!
+أتساءل إن كان بإمكاننا صنع حجر سحر جديد؟",,"[""\\n""]"
+EL_SPPLAY_BTL_A12_A_M01_FYL000_f,SPPLAY_BTL_A12_A_M01_FYL000_f,item_description,わーい、新しい魔石だ！,ياي، حجر سحر جديد!,,[]
+EL_SPPLAY_BTL_A12_A_M01_NPC0010_f,SPPLAY_BTL_A12_A_M01_NPC0010_f,item_description,新しい魔石をいただきました！,لقد حصلنا على حجر سحر جديد!,,[]
+EL_SPPLAY_BTL_A12_B_M01_FYL000_f,SPPLAY_BTL_A12_B_M01_FYL000_f,item_description,この魔石にはどんな力があるのかな？,أتساءل ما هي القوة التي يملكها حجر السحر هذا؟,,[]
+EL_SPPLAY_BTL_A12_B_M01_NPC0010_f,SPPLAY_BTL_A12_B_M01_NPC0010_f,item_description,新しい魔石……\nどんな力が秘められているのでしょうか。,"حجر سحر جديد...
+يا ترى ما هي القوة الكامنة فيه؟",,"[""\\n""]"
+EL_SPPLAY_BTL_A12_C_M01_FYL000_f,SPPLAY_BTL_A12_C_M01_FYL000_f,item_name,新しい魔石だね！,إنه حجر سحر جديد!,,[]
+EL_SPPLAY_BTL_A12_C_M01_NPC0010_f,SPPLAY_BTL_A12_C_M01_NPC0010_f,item_description,新しい魔石が手に入りました！,لقد عثرنا على حجر سحر جديد!,,[]
+EL_SPPLAY_BTL_A12_D_M01_FYL000_f,SPPLAY_BTL_A12_D_M01_FYL000_f,item_description,新しい魔石ができたよ！,لقد صُنع حجر سحر جديد!,,[]
+EL_SPPLAY_BTL_A12_D_M01_NPC0010_f,SPPLAY_BTL_A12_D_M01_NPC0010_f,item_description,新しい魔石ができました！,تم صنع حجر سحر جديد!,,[]
+EL_SPPLAY_BTL_A13_B_M01_FYL000_f,SPPLAY_BTL_A13_B_M01_FYL000_f,item_description,この魔石なら、\nもっと冒険の役に立ちそうだね！,"حجر السحر هذا
+سيفيدنا كثيراً في مغامرتنا بالتأكيد!",,"[""\\n""]"
+EL_SPPLAY_BTL_A13_B_M01_NPC0010_f,SPPLAY_BTL_A13_B_M01_NPC0010_f,item_description,この魔石なら、もっといろいろなことが\nできそうですね！,"بفضل حجر السحر هذا، يبدو أننا سنتمكن
+من القيام بأمور متنوعة أكثر!",,"[""\\n""]"
+EL_SPPLAY_BTL_A13_C_M01_FYL000_f,SPPLAY_BTL_A13_C_M01_FYL000_f,item_description,魔石、みーっけ！\nどんなことができるようになるのかな？,"لقد وجدتُ حجر سحر!
+يا ترى ما الذي سنتمكن من فعله الآن؟",,"[""\\n""]"
+EL_SPPLAY_BTL_T08_A_M01_NPC0010_f,SPPLAY_BTL_T08_A_M01_NPC0010_f,skill_description,これは……\n効果がないようですね。,"يبدو أن هذا...
+غير فعال على الإطلاق.",,"[""\\n""]"
+EL_SPPLAY_GMK_A94_B_M01_FYL000_f,SPPLAY_GMK_A94_B_M01_FYL000_f,skill_description,ばっちり回復したよ！,لقد تعافيتُ تماماً!,,[]
+EL_SPPLAY_ITEMGET_T21_A_M01_NPC0010_f,SPPLAY_ITEMGET_T21_A_M01_NPC0010_f,item_description,これだけツールがあれば、\nいい道具も買えそうです！,"Let's double check if ツール is a typo of トール in Japanese text: ""これだけツールがあれば"" is indeed ""If we have this many tools"" or ""If we have this much Toll"". Let's translate as ""أدوات"" to be safe and literal to the Japanese text: ""بوجود كل هذه الأدوات،
+أعتقد أننا سنتمكن من شراء معدات جيدة!"" OR ""إذا كان لدينا كل هذا المال،
+فأعتقد أننا سنشتري معدات ممتازة!"" (Wait, ツール is tools. Let's use ""أدوات"": ""بوجود كل هذه الأدوات،
+أعتقد أنه يمكننا شراء معدات جيدة!"")",,"[""\\n""]"
+EL_SPPLAY_ITEMGET_T22_A_M01_FYL000_f,SPPLAY_ITEMGET_T22_A_M01_FYL000_f,item_description,魔石の欠片だ！\nたくさん集めると、いいことがあるよね！,"شظية حجر السحر!
+جمع الكثير منها سيجلب أموراً رائعة، أليس كذلك؟",,"[""\\n""]"
+EL_SPPLAY_ITEMGET_T22_A_M01_NPC0010_f,SPPLAY_ITEMGET_T22_A_M01_NPC0010_f,item_description,魔石の欠片ですね。\n集めておきましょう。,"شظية حجر السحر.
+دعنا نجمعها.",,"[""\\n""]"
+EL_SPPLAY_ITEMGET_T23_A_M01_FYL000_f,SPPLAY_ITEMGET_T23_A_M01_FYL000_f,item_description,魔石の欠片、いっぱい手に入っちゃった！,لقد حصلتُ على الكثير من شظايا حجر السحر!,,[]
+EL_SPPLAY_ITEMGET_T23_A_M01_NPC0010_f,SPPLAY_ITEMGET_T23_A_M01_NPC0010_f,item_description,魔石の欠片がこんなに……！,كل هذه الشظايا من حجر السحر...!,,[]
+EL_SPPLAY_MSTONE_T01_A_M01_FYL000_f,SPPLAY_MSTONE_T01_A_M01_FYL000_f,item_description,もっといい魔石ができるかも！,ربما نتمكن من صنع حجر سحر أفضل!,,[]
+EL_SPPLAY_MSTONE_T01_A_M01_NPC0010_f,SPPLAY_MSTONE_T01_A_M01_NPC0010_f,item_description,さらに、いい魔石ができそうです！,يبدو أننا سنصنع حجر سحر أفضل بكثير!,,[]
+EL_SPPLAY_MSTONE_T01_B_M01_FYL000_f,SPPLAY_MSTONE_T01_B_M01_FYL000_f,item_description,次はどんな魔石ができるかな～？,أتساءل ما نوع حجر السحر الذي سنصنعه تالياً؟,,[]
+EL_SPPLAY_MSTONE_T01_B_M01_NPC0010_f,SPPLAY_MSTONE_T01_B_M01_NPC0010_f,item_description,どんな魔石ができるか、楽しみですね！,أنا متشوقة لرؤية نوع حجر السحر الذي سنصنعه!,,[]
+EL_SPPLAY_MSTONE_T02_A_M01_FYL000_f,SPPLAY_MSTONE_T02_A_M01_FYL000_f,item_description,魔石がたくさん入れられるようになったよ！,أصبح بإمكاننا وضع الكثير من أحجار السحر الآن!,,[]
+EL_SPPLAY_MSTONE_T02_A_M01_NPC0010_f,SPPLAY_MSTONE_T02_A_M01_NPC0010_f,item_description,魔石がさらに入れられるようです！,يبدو أنه أصبح بالإمكان وضع المزيد من أحجار السحر!,,[]
+EL_SPPLAY_MSTONE_T02_B_M01_FYL000_f,SPPLAY_MSTONE_T02_B_M01_FYL000_f,item_description,魔石を入れる箱が大きくなったよ！,لقد أصبح صندوق أحجار السحر أكبر!,,[]
+EL_SPPLAY_MSTONE_T02_B_M01_NPC0010_f,SPPLAY_MSTONE_T02_B_M01_NPC0010_f,item_description,魔石を入れる箱が大きくなったようです！,يبدو أن صندوق أحجار السحر قد أصبح أكبر!,,[]
+EL_SPPLAY_MSTONE_T03_A_M01_FYL000_f,SPPLAY_MSTONE_T03_A_M01_FYL000_f,item_description,魔石の欠片に戻ったよ！,لقد تحول مجدداً إلى شظايا حجر السحر!,,[]
+EL_SPPLAY_MSTONE_T03_A_M01_NPC0010_f,SPPLAY_MSTONE_T03_A_M01_NPC0010_f,item_description,魔石の欠片に戻したのですね。,لقد أعدته إلى شظايا حجر السحر إذاً.,,[]
+EL_SPPLAY_MSTONE_T03_B_M01_FYL000_f,SPPLAY_MSTONE_T03_B_M01_FYL000_f,item_description,ばいばい、魔石さん。,وداعاً يا حجر السحر العزيز.,,[]
+EL_SPPLAY_MSTONE_T03_B_M01_NPC0010_f,SPPLAY_MSTONE_T03_B_M01_NPC0010_f,item_description,魔石を整理できましたね。,لقد تمكنا من تنظيم أحجار السحر بنجاح.,,[]
+EL_SPS04_N29_3000_A_M01_FYL000_f,SPS04_N29_3000_A_M01_FYL000_f,item_description,おいしい料理のレシピ、どこにあるかな？,أتساءل أين يمكن أن نجد وصفات طعام لذيذة؟,,[]
+EL_SPS04_N29_3000_B_M01_FYL000_f,SPS04_N29_3000_B_M01_FYL000_f,item_description,レシピ、手に入ったね！\n食堂にいるヒューリアのところに向かおう！,"لقد حصلنا على الوصفة!
+دعنا نذهب إلى هيوريا في قاعة الطعام!",,"[""\\n""]"
+EL_SPS04_N29_3000_C_M01_FYL000_f,SPS04_N29_3000_C_M01_FYL000_f,item_description,たくさんのレシピが集まったね。\nどれもおいしそう～！,"لقد جمعنا الكثير من الوصفات.
+كلها تبدو شهية للغاية!",,"[""\\n""]"
+EL_SPSUP_ACTH_A02_A_M01_NPC0010_f,SPSUP_ACTH_A02_A_M01_NPC0010_f,skill_name,回復します！,سأقوم بالعلاج!,,[]
+EL_SPTOWN_A2_HOUSE02_A_M01_FYL000_f,SPTOWN_A2_HOUSE02_A_M01_FYL000_f,item_description,大きな研究所！　見たことない道具や\n本がたくさんそろってるね！,"مختبر ضخم! هناك الكثير من الأدوات والكتب
+التي لم أرها من قبل!",,"[""\\n""]"
+EL_SubQuestAlarmNew,SubQuestAlarmNew,quest_title,新しいクエストがあります,هناك مهمة جديدة متاحة,,[]
+EL_SubQuestAlarmReleaseTemporaryUnable,SubQuestAlarmReleaseTemporaryUnable,quest_description,進行できるようになったクエストがあります,هناك مهمات أصبحت متاحة للمتابعة الآن.,,[]
+EL_SubQuestAlarmShortlyUnableComplete,SubQuestAlarmShortlyUnableComplete,quest_description,まもなく達成できなくなるクエストがあります,هناك مهمات ستصبح غير قابلة للإنجاز قريباً.,,[]
+EL_SubQuestAlarmShortlyUnableOrder,SubQuestAlarmShortlyUnableOrder,quest_description,まもなく受注できなくなるクエストがあります,هناك مهمات ستصبح غير قابلة للقبول قريباً.,,[]
+EL_SubQuestAlarmTemporaryUnable,SubQuestAlarmTemporaryUnable,quest_description,一時的に進行できないクエストがあります,هناك مهمات غير متاحة للمتابعة مؤقتاً.,,[]
+EL_SubQuestAlarmUnableOrder,SubQuestAlarmUnableOrder,quest_description,達成できなくなったクエストがあります,هناك مهمات لم تعد قابلة للإنجاز.,,[]
+EL_SubQuestHeader,SubQuestHeader,quest_title,サブクエスト,"""المهمات الجانبية"" (16 chars)",,[]
+EL_SubQuestRequester,SubQuestRequester,quest_title,依頼人,طالب المهمة,,[]
+EL_SubQuestReward,SubQuestReward,quest_title,報酬,المكافأة,,[]
+EL_SubQuestStateOrder,SubQuestStateOrder,quest_title,クエスト受注済み,مهمات مقبولة,,[]
+EL_SubQuestStateUnableOrder,SubQuestStateUnableOrder,quest_description,達成できなくなったクエストです。,هذه المهمة لم تعد قابلة للإنجاز.,,[]
+EL_SubQuestStateUnOrder,SubQuestStateUnOrder,quest_title,未受注のクエスト,مهمات غير مقبولة,,[]
+EL_TRIAL01_E01_1000_M160_NPC0010_f,TRIAL01_E01_1000_M160_NPC0010_f,quest_description,危険な依頼です。\n無理はなさらないで。,إنها مهمة خطرة.\\nلا تُجهِد نفسك من فضلك.,"speaker_gender: f — feminine NPC, polite register. \\n preserved.","[""\\n""]"
+EL_Tutorial_A3Shop_01_1_Title,Tutorial_A3Shop_01_1_Title,skill_description,回復の薬を忘れずに！,لا تنسَ جرعات العلاج!,,[]
+EL_Tutorial_A3Shop_01_Title,Tutorial_A3Shop_01_Title,skill_description,回復の薬を忘れずに！,لا تنسَ جرعات العلاج!,,[]
+EL_Tutorial_Accessory_01_1_Title,Tutorial_Accessory_01_1_Title,item_description,装備品『アクセサリ』,المعدات: «الملحقات»,,[]
+EL_Tutorial_Accessory_01_Title,Tutorial_Accessory_01_Title,item_description,装備品『アクセサリ』,المعدات: «الملحقات»,,[]
+EL_Tutorial_ArenaOpen_01_2_Title,Tutorial_ArenaOpen_01_2_Title,quest_title,特別な報酬『証』,مكافأة خاصة: «الشهادات»,,[]
+EL_Tutorial_BattleArena_01_3_Title,Tutorial_BattleArena_01_3_Title,quest_title,目標タイムを目指せ！,اسعَ لتحقيق الوقت المستهدف!,,[]
+EL_Tutorial_Boomerang_01_1_Text,Tutorial_Boomerang_01_1_Text,skill_description,投げたとき、返ってくるとき、\nそれぞれでダメージを与えられるぞ！,"يمكنك إلحاق الضرر بالأعداء
+عند رمي البوميرانج وعند عودته إليك!",,"[""\\n""]"
+EL_Tutorial_Bottle_01_1_Title,Tutorial_Bottle_01_1_Title,item_description,道具『空っぽのガラス管』,أداة: «أنبوب زجاجي فارغ»,,[]
+EL_Tutorial_Bottle_01_Title,Tutorial_Bottle_01_Title,item_description,道具『空っぽのガラス管』,أداة: «أنبوب زجاجي فارغ»,,[]
+EL_Tutorial_CatCompass_01_1_Title,Tutorial_CatCompass_01_1_Title,item_description,道具『ネコ探知の針』,أداة: «إبرة تعقب القطط»,,[]
+EL_Tutorial_CatCompass_01_Title,Tutorial_CatCompass_01_Title,item_description,道具『ネコ探知の針』,أداة: «إبرة تعقب القطط»,,[]
+EL_Tutorial_Compass_01_1_Title,Tutorial_Compass_01_1_Title,item_description,道具『魔力コンパス』,أداة: «بوصلة القوة السحرية»,,[]
+EL_Tutorial_Compass_01_Title,Tutorial_Compass_01_Title,item_description,道具『魔力コンパス』,أداة: «بوصلة القوة السحرية»,,[]
+EL_Tutorial_FairyAbilityAttract_03_1_Text,Tutorial_FairyAbilityAttract_03_1_Text,skill_description,敵と一緒に、壺や樽も引き寄せれば、\nダメージを与えられる！,"إذا سحبت الجرار والبراميل مع الأعداء،
+فستتمكن من إلحاق الضرر بهم!",,"[""\\n""]"
+EL_Tutorial_Hammer_01_1_Text,Tutorial_Hammer_01_1_Text,skill_description,振りは遅いが、大ダメージと衝撃を与える。,"""حركتها بطيئة، لكنها تلحق ضرراً هائلاً وتحدث صدمة قوية."" (Hammer description, concise)",,[]
+EL_Tutorial_MagicStone_01_1_Title,Tutorial_MagicStone_01_1_Title,item_description,特殊な装備品『魔石』,معدات خاصة: «حجر السحر»,,[]
+EL_Tutorial_MagicStone_01_Title,Tutorial_MagicStone_01_Title,item_description,特殊な装備品『魔石』,معدات خاصة: «حجر السحر»,,[]
+EL_Tutorial_MagicStoneFay_01_1_Title,Tutorial_MagicStoneFay_01_1_Title,item_description,『フェイにおまかせ』で魔石をセット,"Wait, ""تجهيز تلقائي مع فاي"" is 19 chars.)",,[]
+EL_Tutorial_MagicStoneFay_01_Title,Tutorial_MagicStoneFay_01_Title,item_description,『フェイにおまかせ』で魔石をセット,"Wait, ""تجهيز تلقائي مع فاي"" is 19 chars.)",,[]
+EL_Tutorial_MagicStoneShop_01_1_Title,Tutorial_MagicStoneShop_01_1_Title,item_name,魔石を生成しよう,"""لنصنع أحجار السحر"" (17 chars)",,[]
+EL_Tutorial_MagicStoneShop_01_Title,Tutorial_MagicStoneShop_01_Title,item_description,魔石屋『ミューミュー』,متجر أحجار السحر «ميو ميو»,Shop name ミューミュー = Mew Mew using glossary: ميو.,[]
+EL_Tutorial_MagicStoneShop_01b_1_Title,Tutorial_MagicStoneShop_01b_1_Title,item_description,『魔石箱』のレベルを上げよう,"""لنرفع مستوى «صندوق أحجار السحر»"" (30 chars - FIT-CHECK: short_arabic: ترقية صندوق أحجار السحر)",,[]
+EL_Tutorial_MagicStoneShop_01b_Title,Tutorial_MagicStoneShop_01b_Title,item_description,『魔石箱』のレベルを上げよう,"""لنرفع مستوى «صندوق أحجار السحر»"" (30 chars - FIT-CHECK: short_arabic: ترقية صندوق أحجار السحر)",,[]
+EL_Tutorial_MagicStoneShop_02_1_Text,Tutorial_MagicStoneShop_02_1_Text,item_description,魔石を入手したとき、不要な物はすぐに分解されて、\n魔石の欠片になるぞ。,"عند الحصول على أحجار السحر، سيتم تفكيك غير الضروري منها
+فوراً لتتحول إلى شظايا أحجار السحر.",,"[""\\n""]"
+EL_Tutorial_MagicStoneShop_02_1_Title,Tutorial_MagicStoneShop_02_1_Title,item_name,魔石の分解,"""تفكيك أحجار السحر"" (17 chars)",,[]
+EL_Tutorial_MagicStoneShop_02_Title,Tutorial_MagicStoneShop_02_Title,item_name,魔石の分解,"""تفكيك أحجار السحر"" (17 chars)",,[]
+EL_Tutorial_MinigameFayOpen_02_2_Title,Tutorial_MinigameFayOpen_02_2_Title,quest_title,特別な報酬『レコード』,مكافأة خاصة: «الأسطوانات»,,[]
+EL_Tutorial_Shop_01_1_Title,Tutorial_Shop_01_1_Title,item_description,道具屋で冒険の準備を,"""الاستعداد للمغامرة في متجر الأدوات"" (34 chars - FIT-CHECK: short_arabic: الاستعداد في متجر الأدوات)",,[]
+EL_Tutorial_Shop_01_Title,Tutorial_Shop_01_Title,item_description,道具屋で冒険の準備を,"""الاستعداد للمغامرة في متجر الأدوات"" (34 chars - FIT-CHECK: short_arabic: الاستعداد في متجر الأدوات)",,[]
+EL_Tutorial_ShrineLife_01_1_Text,Tutorial_ShrineLife_01_1_Text,quest_description,試練を乗り越えると、特別な報酬が得られそうだ……！,اجتياز المحن سيتيح لك الحصول على مكافآت خاصة...!,,[]
+EL_WPN_BOMB_1_DESCRIPTION,WPN_BOMB_1_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_BOOMERANG_1_DESCRIPTION,WPN_BOOMERANG_1_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_BOOMERANG_2_DESCRIPTION,WPN_BOOMERANG_2_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_BOOMERANG_3_DESCRIPTION,WPN_BOOMERANG_3_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_BOW_1_DESCRIPTION,WPN_BOW_1_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_BOW_2_DESCRIPTION,WPN_BOW_2_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_BOW_3_DESCRIPTION,WPN_BOW_3_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_CHAIN_1_DESCRIPTION,WPN_CHAIN_1_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_CHAIN_2_DESCRIPTION,WPN_CHAIN_2_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_CHAIN_3_DESCRIPTION,WPN_CHAIN_3_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_HAMMER_1_DESCRIPTION,WPN_HAMMER_1_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_HAMMER_2_DESCRIPTION,WPN_HAMMER_2_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_HAMMER_3_DESCRIPTION,WPN_HAMMER_3_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_SPEAR_1_DESCRIPTION,WPN_SPEAR_1_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_SPEAR_2_DESCRIPTION,WPN_SPEAR_2_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_SPEAR_3_DESCRIPTION,WPN_SPEAR_3_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_SWORD_1_DESCRIPTION,WPN_SWORD_1_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]
+EL_WPN_SWORD_2_DESCRIPTION,WPN_SWORD_2_DESCRIPTION,skill_description,・攻撃力{Num:1},"- ""Fay's choice / Leave it to Fay"" -> أسلوب فاي / تلقائي مع فاي",,[]

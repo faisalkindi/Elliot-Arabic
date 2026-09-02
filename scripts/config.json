@@ -1,0 +1,21 @@
+{
+  "game_paks": "H:\\Steam\\steamapps\\common\\The Adventures of Elliot_The Millennium Tales\\Elliot\\Content\\Paks",
+  "engine_version": "UE5_6",
+  "_engine_version_note": "CONFIRMED UE5.6 via jmap (EngineVersion(5.6)); corroborated by bundled ONNX Runtime 1.20 (UE5.5 had 1.17.1).",
+  "aes_key": "0x12992712E775A48B2CF002BE46619B1648C36F7212A91AB960825E0C023C62B5",
+  "_aes_note": "AES-256 key for Elliot-Windows.pak (the ENCRYPTED legacy pak holding Content/Localization/Game/<culture>/Game.locres). Dumped via AESDumpster 1.2.5 on Elliot-Win64-Shipping.exe. Verified: mounts the pak + reveals 38 locres (en/ja/fr/de/es/it/ko).",
+  "usmap": "_tools/Mappings.usmap",
+  "retoc_exe": "_tools/retoc/retoc.exe",
+  "jmap_exe": "_tools/jmap/jmap_dumper.exe",
+  "uassetgui_exe": "_tools/UAssetGUI.exe",
+  "work_extract": "../_extract",
+  "out_dir": "..",
+  "text_filters": [
+    "/Game/",
+    "Text",
+    "Database",
+    "DataTable",
+    "Localization",
+    "L10N"
+  ]
+}
